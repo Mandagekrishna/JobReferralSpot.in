@@ -42,11 +42,11 @@ export default function InternshipListMui()
 <Grid container size={12}  rowSpacing={1} sx={{marginBottom:'8%', padding:'10px',height:'auto'}} >
     
         <Grid container spacing={1} >
-            <Grid item  size={10} sx={{minWidth:'500px'}}>
-            <Typography variant="h5" sx={{fontFamily:'Josefin Sans'}}>{element['position']}</Typography>
+            <Grid item  size={{xs:8, md:10}} sx={{minWidth:{md:'500px'}}}>
+            <Typography  variant="h5" sx={{fontFamily:'Josefin Sans' }}>{element['position']}</Typography>
             </Grid>
 
-            <Grid item  size={2} sx={{ justifyItems:'end'}} >           
+            <Grid item  size={2} sx={{ justifySelf:'end'}} >           
             <Typography variant="caption">Posted Date - {element['addedDate']}</Typography>
             </Grid>
          
