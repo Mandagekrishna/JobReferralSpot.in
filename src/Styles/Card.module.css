@@ -1,0 +1,111 @@
+.container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+
+ 
+    /* background-color: chocolate; */
+ 
+}
+
+.card1{
+    grid-column-start: 1;
+    display: grid;    
+    background-color: rgb(243, 255, 137,0.9);
+    margin: 10px;
+    font-size: 10px;
+    justify-items: center;
+    text-align: center;
+    text-decoration: none;    
+    border: none;
+    height: 50%;
+    border-radius: 10px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+font-family:Verdana, Geneva, Tahoma, sans-serif
+
+}
+
+
+
+.card2{
+    display: grid; 
+    text-decoration: none;  
+    grid-column-start: 2;
+    background-color: rgba(64, 255, 207, 0.9);
+    margin: 10px;
+    font-size: 10px;
+    justify-items: center;
+    text-align: center;
+    border: none;
+    height: 50%;
+    border-radius: 10px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+
+
+
+}
+
+.card3{
+    display: grid;  
+    text-decoration: none; 
+    grid-column-start: 3;
+    background-color: rgb(113, 255, 156);
+    margin: 10px;
+    font-size: 10px;
+    justify-items: center;
+    text-align: center;
+    border: none;
+    height: 50%;
+    border-radius: 10px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+
+}
+
+.card4{
+    display: grid;  
+    text-decoration: none; 
+    grid-column-start: 4;
+    background-color: rgb(100, 149, 237,0.8);
+    margin: 10px;
+    font-size: 10px;
+    justify-items: center;
+    text-align: center;
+    border: none;
+    height: 50%;
+/* From https://css.glass */
+/* background: rgba(255, 255, 255, 0.2); */
+border-radius: 10px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(10px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+
+}
+
+.card1:hover, .card2:hover, .card3:hover, .card4:hover{
+    zoom: 1.5;
+    cursor: pointer;
+ 
+}
+
+.button{
+    border: none;
+    background: none;
+    background-color: none;
+    text-decoration:none;
+    
+   
+   
+
+    }

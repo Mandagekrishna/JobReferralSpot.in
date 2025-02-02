@@ -1,0 +1,59 @@
+[
+    {   
+        "id":"1",
+        "addedDate":"05/01/2025",
+        "companyName":"Barclays",
+        "position":"Java Developer",
+        "positionType":"Full Time Permanent Position",
+        "salary":"As per industry standard",
+        "workMode":"Full Time",
+        "location":"Pune",
+        "Timing":"",
+        "experienceRequired":"Freshers Applicable",
+        "mustHaveSkills":["java","jenkins","JIRA"],
+        "applyMode":"Company site",
+        "applyLink":"https://search.jobs.barclays/job/-/-/13015/75304823376?src=JB-12860?utm_source=geeksforgeeks&utm_medium=jobportal&utm_campaign=gfgexternaljobspromo",
+        "Description":{
+            
+                        "rolesAndResponsibilities": [
+                            
+                            "To design, develop and improve software, utilising various engineering methodologies, that provides business, platform, and technology capabilities for our customers and colleagues.",
+                        "To perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.",
+"Requires in-depth technical knowledge and experience in their assigned area of expertise",
+"Thorough understanding of the underlying principles and concepts within the area of expertise",
+"They lead and supervise a team, guiding and supporting professional development, allocating work requirements and coordinating team resources.",
+"If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others.",
+"OR for an individual contributor, they develop technical expertise in work area, acting as an advisor where appropriate.",
+"Will have an impact on the work of related teams within the area.",
+"Partner with other functions and business areas.",
+"Takes responsibility for end results of a team’s operational processing and activities.",
+"Escalate breaches of policies / procedure appropriately.",
+"Take responsibility for embedding new policies/ procedures adopted due to risk mitigation.",
+"Advise and influence decision making within own area of expertise.",
+"Take ownership for managing risk and strengthening controls in relation to the work you own or contribute to. Deliver your work and areas of responsibility in line with relevant rules, regulation and codes of conduct.",
+"Maintain and continually build an understanding of how own sub-function integrates with function, alongside knowledge of the organisations products, services and processes within the function.",
+"Demonstrate understanding of how areas coordinate and contribute to the achievement of the objectives of the organisation sub-function.",
+"Make evaluative judgements based on the analysis of factual information, paying attention to detail.",
+"Resolve problems by identifying and selecting solutions through the application of acquired technical experience and will be guided by precedents.",
+"Guide and persuade team members and communicate complex / sensitive information.",
+"Act as contact point for stakeholders outside of the immediate function, while building a network of contacts outside team and external to the organisation." 
+],
+
+
+
+
+
+                        "requirements":[
+                                    "Java 8, good experience in Core Java, multi-threading processing",
+                                    "RESTful API, Spring Batch, Microservices Architecture",
+                                    "Messaging - JMS and Solace (Camel and routing)",
+                                    "Good experience in Database queries and Unix commands",
+                                    "Banking domain / Reg Reporting knowledge",
+                                    "Problem solving skills.",
+                                    "Strong interpersonal and written/oral communications skills."
+]
+                    }
+
+
+    }
+]
