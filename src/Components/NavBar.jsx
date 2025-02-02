@@ -18,7 +18,7 @@ export default function ButtonAppBar() {
         Navigate(-1);
     }
   return (
-    <Box sx={{ flexGrow: 1 }}>
+    <Box sx={{ flexGrow: 1,width:'100%'     }}>
       <AppBar sx={{backgroundColor:"#7986cb"}} position="static" color='primary'>
         <Toolbar>        
           <Typography variant="h6" component="div" sx={{ flexGrow: 1, fontFamily:'monospace', fontWeight:'bold' }}>

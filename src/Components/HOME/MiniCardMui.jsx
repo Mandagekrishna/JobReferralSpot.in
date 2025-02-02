@@ -10,38 +10,7 @@ export default function MiniCard(){
     return(
         <>
        
-{/* 
-        <div className ={styles.container}>
-               
-              <NavLink to='/Internships' className={styles.card1}>
-                    <Button variant="contained"  >                   
-                      INTERNSHIPS                  
-                    </button>
-              </NavLink> 
-           
-              <NavLink to='/FreshersJobsList' className={styles.card2}>
-                <Button variant="contained">
-                      FRESHERS JOBS
-                </button>
-              </NavLink> 
 
-
-                <NavLink to='/ExperiencedJobs' className={styles.card3}>
-                <Button variant="contained">
-                     Experienced/Referral JOBS
-                </button>
-              </NavLink> 
-
-
-                <NavLink to='/WalkInDriveJobsList' className={styles.card4}>
-                <Button variant="contained">
-                        WALK-IN INTERVIEWS
-                </button>
-              </NavLink> 
-
-
-               
-        </div> */}
 
         <Stack  direction={{ xs: 'column', sm: 'row' }} spacing={2} sx={{width:1, justifyContent: "space-around", alignItems:'center'}}>
         <NavLink to='/Internships'>

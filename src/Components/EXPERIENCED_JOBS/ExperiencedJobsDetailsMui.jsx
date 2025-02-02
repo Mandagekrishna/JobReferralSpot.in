@@ -20,63 +20,7 @@ export default function JobsDetailsPageMui(){
     return(
     
     <>
-        {/* <div className={styles.container}>
-            
-            <div className={styles.element1}>
-                <h2>{currentJobs[0]["companyName"]}</h2>
-                <h5>{currentJobs[0]["position"]}</h5>
-            </div>
-
-            <div className={styles.element2}>
-                <Typography>{currentJobs[0]['salary']}</Typography>
-                <Typography>{currentJobs[0]['location']}</Typography>
-                <Typography>{currentJobs[0]['positionType']}</Typography>
-                <Typography>{currentJobs[0]['workMode']}</Typography>
-                <Typography>{currentJobs[0]['experienceRequired']}</Typography>
-          </div>
-
-
-            <div className={styles.element3}>                           
-                            <div className={styles.element3card}>
-                               Ad
-                            </div>            
-                            <div className={styles.element3card}>
-                               Ad
-                            </div>  
-            </div> 
-
-
-            <div className={styles.element4}>
-                <h4> How to apply</h4>
-                <p>Apply Mode  - {currentJobs[0]['applyMode']} <a href={`${currentJobs[0]['website']}`}>{currentJobs[0]['website']}</a> </p>  
-            </div>
-
-
-            <div className={styles.element5}>
-                <h2>Roles and Responsibilities</h2>
-               {Array.isArray(currentJobs[0]["Description"]["rolesAndResponsibilities"])?
-                currentJobs[0]["Description"]["rolesAndResponsibilities"].map(element=>
-                    (<li>{element}</li>)):<></>}
-            </div>
-
-
-            <div className={styles.element6}>
-                <h2>Requirements</h2>
-                {Array.isArray(currentJobs[0]["Description"]["requirements"])?
-                currentJobs[0]["Description"]["requirements"].map(element=>
-                    (<li>{element}</li>)):<></>}
-            </div>
-
-
-           <div className={styles.element7}>
-                <Footer></Footer>
-            </div>
         
-        
-        
-        
-        </div> */}
-    
 
         <Grid container sx={{marginBottom:'30px', marginLeft:'30px'}} >
 

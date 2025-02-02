@@ -31,9 +31,12 @@ export default function JobsList()
     <Typography variant='h3'>Experienced Jobs</Typography>
     </Grid>
 </Grid>
-<Grid container  rowSpacing={1} >
+<Grid container  rowSpacing={1}  sx={{
+    justifyContent: "center",
+    
+  }} >
 
-<Grid size={{xs:6,md:8}} columns={10} offset={0.3} sx={{marginRight:'60px'}}  >
+<Grid size={{xs:8,md:8}} columns={10} offset={0.3} sx={{marginRight:'60px'}}  >
                 
              {
              JobsData.map(element => { 
@@ -112,7 +115,7 @@ export default function JobsList()
 
 
 
-<Grid container size={{md:2.5}} sx={{backgroundColor:'lightblue'}}>
+<Grid container size={{xs:1.5,md:2.5}} sx={{backgroundColor:'lightblue'}}>
 
 <Paper elevation={4} sx={{width:'100%'}}>
            <Grid>
