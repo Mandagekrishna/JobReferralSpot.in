@@ -33,7 +33,7 @@ export default function FreshersJobsList()
 </Grid>
 <Grid container columns={12}   rowSpacing={1} >
 
-<Grid size={{xs:8,md:8}}  offset={0.3} sx={{marginRight:'7%'}}  >
+<Grid size={{xs:8,md:8}} columns={10}  offset={0.3} sx={{marginRight:'7%'}}  >
                 
              {
              JobsData.map(element => { 
@@ -43,7 +43,7 @@ export default function FreshersJobsList()
 <Grid container size={12}  rowSpacing={1} sx={{marginBottom:'8%', padding:'10px'}} >
     
         <Grid container spacing={1} >
-            <Grid item  size={10} sx={{minWidth:{md:'500px'}}}>
+            <Grid item  size={{xs:8, md:10}} sx={{minWidth:{md:'500px'}}}>
             <Typography variant="h5">{element['position']}</Typography>
             </Grid>
 
