@@ -80,7 +80,7 @@ export default function JobsDetailsPage(){
 
 <Paper elevation={4} sx={{width:'100%'}}>
    <Grid>
-        welcome
+        ad
     </Grid>
     
 </Paper>

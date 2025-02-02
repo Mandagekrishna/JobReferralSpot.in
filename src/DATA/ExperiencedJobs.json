@@ -1,224 +1,168 @@
 [
     {   
         "id":"1",
-        "addedDate":"05/01/2025",
-        "companyName":"SPN GLOBE",
-        "position":"Full Stack Developer",
-        "positionType":"Full Time Permanent Position",
-        "salary":"",
-        "workMode":"Hybrid Work Culture",
-        "location":"Pune",
+        "addedDate":"02/02/2025",
+        "companyName":"YASH TECHNOLOGIES",
+        "position":"Java AWS Architect",
+        "positionType":"Not Available",
+        "salary":"Not Available",
+        "workMode":"Not Available",
+        "location":"Cyrstal IT Park, Indore & Magarpatta, Pune",
         "Timing":"",
-        "experienceRequired":"8-12 years experience",
-        "mustHaveSkills":["Apply Mode - Direct Referral"],
+        "experienceRequired":"2-3 years experience",
+        "mustHaveSkills":["Apply Mode - Direct Referral","Java/J2EE","Microservices/Serverless Architecture","AWS"],
         "applyMode":"Referral - Refer/Share Resume to -",
-        "website":"gunjan.t@spnglobe.com",
+        "website":"ShwetaHr.yashtechnology@gmail.com",
         "Description":{
             
-                        "rolesAndResponsibilities":"",
-                        "requirements":""
+                        "rolesAndResponsibilities":[],
+                        "requirements":["Experience: 1.2-5+ years of software development experience with 2-3 years in an AWS Architect role.",
+                         "Hands-on experience with AWS solutions using IAM, S3, EC2, EKS, ECS, SQS, SNS, Lambda, Kinesis, AWS Batch, RDS, Dynamo DB and API Gateway"]
                     }
 
 
     },
-
     {   
         "id":"2",
-        "addedDate":"05/01/2025",
-        "companyName":"SPN GLOBE",
-        "position":"QA Automation Lead",
-        "positionType":"Full Time Permanent Position",
-        "salary":"",
-        "workMode":"Hybrid Work Culture",
+        "addedDate":"02/02/2025",
+        "companyName":"Hexaware Technologies",
+        "position":"ServiceNow Associate",
+        "positionType":"Not Available",
+        "salary":"Not Available",
+        "workMode":"Not Available",
         "location":"Pune",
         "Timing":"",
-        "experienceRequired":"8-12 years experience",
-        "mustHaveSkills":["Apply Mode - Direct Referral","Java Selenium API Testing + Database"],
-        "applyMode":"Referral - Refer/Share Resume to -",
-        "website":"gunjan.t@spnglobe.com",
+        "experienceRequired":"3 years experience",
+        "mustHaveSkills":["Apply Mode - Form","Javascript","AngularJS"],
+        "applyMode":"(Form) - ",
+        "website":"https://forms.office.com/pages/responsepage.aspx?id=9TYMfIOvJEyIRJli4BY3GbBIV4MHlLBJpBu1M2M_eYdUMVhUTkMwVTBFMDNPWlE4SkwyNVpXWE5ZOS4u&route=shorturl",
+        "jobsource":"https://www.linkedin.com/jobs/view/4136368382",
         "Description":{
             
-                        "rolesAndResponsibilities":"",
-                        "requirements":""
+                        "rolesAndResponsibilities":["Collaborate with our experienced team to understand and deliver solutions using the ServiceNow platform.",
+                        "Participate in the development, configuration, and customization of ServiceNow applications.",
+                        "Assist in identifying areas for process improvement and automation within ServiceNow.",
+                        "Engage in documentation and knowledge sharing for best practices and solutions.",
+                        "Fully committed to working from office 5 days a week and in a shift environment],"],
+                        "requirements":["Minimum of 3 years and Maximum of 4 Years of hands-on development experience in JavaScript or Angular JS",
+
+                        "Exposure to Agile methodolog",
+                
+                        "Working on scrum storie",
+                
+                        "Attending daily stand-up",
+                
+                        "Testing and functional experience will not be considered",
+                
+                        "Strong problem-solving and analytical skills",
+                
+                       " Excellent communication and teamwork skills."]
                     }
 
 
     },
     {   
         "id":"3",
-        "addedDate":"05/01/2025",
-        "companyName":"SPN GLOBE",
-        "position":"QA Automation",
-        "positionType":"Full Time Permanent Position",
-        "salary":"",
-        "workMode":"Hybrid Work Culture",
-        "location":"All India",
+        "addedDate":"02/02/2025",
+        "companyName":"Birlasoft",
+        "position":"Salesforce Developer",
+        "positionType":"Not Available",
+        "salary":"Not Available",
+        "workMode":"Not Available",
+        "location":"Bengaluru, Karnataka, India",
         "Timing":"",
-        "experienceRequired":"5-10 years experience",
-        "mustHaveSkills":["Apply Mode - Direct Referral","C#", "Selenium"],
-        "applyMode":"Referral - Refer/Share Resume to -",
-        "website":"gunjan.t@spnglobe.com",
+        "experienceRequired":"5- 8 years experience",
+        "mustHaveSkills":["Apply Mode - Mail","Salesforce Service Cloud / Sales Cloud Salesforce Apex, Visualforce, Flows, Triggers, fields, page layouts, record types, custom settings, dashboards and reports","Integration SOAP, REST, Bulk API), integration patterns, and best practices."],
+        "applyMode":"(Mail) - ",
+        "website":"kumari.singh@birlasoft.com",
         "Description":{
             
-                        "rolesAndResponsibilities":"",
-                        "requirements":""
+                        "rolesAndResponsibilities":[
+                        "Must have at least 5- 8 Years of SFDC development and implementation experience.",
+                        "Experience in building Salesforce apps from development to support.",
+                        "In-depth understanding of the capabilities and constraints of the SFDC CRM/PRM applications.",
+                        "Ability to Identify and gather requirements from users and stakeholders.",
+                        "Analyze detailed business/functional/technical requirements and specifications for the application.",
+                        "Supporting application testing, deployment, maintenance, and evolution activities by correcting programming errors, responding to scope changes, and coding application enhancements.",
+                        "Knowledge on APIs and security settings.",
+                        "Good verbal and written communication skills."
+                    ],
+
+                        "requirements":[
+                            "Typically, a technical Bachelor's degree or equivalent experience or a Master's degree and a minimum of 3 years and up to 8 years of related experience.",
+                            "Primary Skills:",
+                            "Salesforce Service Cloud / Sales Cloud",
+                            "Salesforce CRM/PRM Modules.",
+                            "Salesforce Apex, Visualforce, Flows, Triggers, fields, page layouts, record types, custom settings, dashboards and reports",
+                            "Lightning (Aura, LWC), HTML, CSS, JavaScript",
+                            "Integration SOAP, REST, Bulk API), integration patterns, and best practices.",
+                            "Knowledge of Salesforce PRM"
+                    ]
                     }
 
 
     },
     {   
         "id":"4",
-        "addedDate":"05/01/2025",
-        "companyName":"SPN GLOBE",
-        "position":"Python Automation",
-        "positionType":"Full Time Permanent Position",
-        "salary":"",
-        "workMode":"Hybrid Work Culture",
-        "location":"All India",
+        "addedDate":"02/02/2025",
+        "companyName":"Nagarro",
+        "position":"Salesforce Developer",
+        "positionType":"Not Available",
+        "salary":"Not Available",
+        "workMode":"Not Available",
+        "location":"Chennai",
         "Timing":"",
-        "experienceRequired":"5-12 years experience",
-        "mustHaveSkills":["Apply Mode - Direct Referral","GCP", "DOCKER", "K8S"],
-        "applyMode":"Referral - Refer/Share Resume to -",
-        "website":"gunjan.t@spnglobe.com",
+        "experienceRequired":"5- 10 years experience",
+        "mustHaveSkills":["Apply Mode - Mail","Strong expertise in Lightning Web Components (hashtag#LWC)"],
+        "applyMode":"(Mail) - ",
+        "website":"Kshama.chanda@nagarro.com",
         "Description":{
             
-                        "rolesAndResponsibilities":"",
-                        "requirements":""
+                        "rolesAndResponsibilities":[
+                        "Not Mentioned"
+                       
+                    ],
+
+                        "requirements":[
+                            "Not Available"
+                    ]
                     }
 
 
     },
     {   
         "id":"5",
-        "addedDate":"05/01/2025",
-        "companyName":"SPN GLOBE",
-        "position":"QA Automation",
-        "positionType":"Full Time Permanent Position",
-        "salary":"",
-        "workMode":"Hybrid Work Culture",
-        "location":"Pune",
-        "Timing":"",
-        "experienceRequired":"8+ years experience",
-        "mustHaveSkills":["Apply Mode - Direct Referral","JAVA","API TESTING"],
-        "applyMode":"Referral - Refer/Share Resume to -",
-        "website":"gunjan.t@spnglobe.com",
+        "addedDate":"02/02/2025",
+        "companyName":"Ascendion",
+        "position":"Dotnet Developer",
+        "positionType":"Not Available",
+        "salary":"Not Available",
+        "workMode":"Not Available",
+        "location":"Bengaluru, Pune, Chennai, Hyderabad, Vadodara (Hybrid work)",
+        "Timing":"2-11 pm",
+        "experienceRequired":"Not Mentioned",
+        "mustHaveSkills":["Apply Mode - Mail","Strong expertise in Lightning Web Components (hashtag#LWC)"],
+        "applyMode":"(Mail) - ",
+        "website":"harshita.sahu@ascendion.com",
         "Description":{
             
-                        "rolesAndResponsibilities":"",
-                        "requirements":""
-                    }
+                        "rolesAndResponsibilities":[
+                           "Collaborate with cross-functional teams to design, develop, and deploy scalable software solutions for loan depot customer acquisition operations.",
+                           "Utilize your expertise in C# 10 and .NET 6 to build robust API services, ensuring optimal performance, security, and reliability.",
+                           "Azure Service Bus",
+                           "Collaborate with QA teams to identify and resolve software defects and performance issues.",
+                           "Minimal Kubernetes Experience"
+                       
+                    ],
 
-
-    },
-    {   
-        "id":"2",
-        "addedDate":"05/01/2025",
-        "companyName":"SPN GLOBE",
-        "position":"Automation Lead",
-        "positionType":"Full Time Permanent Position",
-        "salary":"",
-        "workMode":"Hybrid Work Culture",
-        "location":"Pune",
-        "Timing":"",
-        "experienceRequired":"7+ years experience",
-        "mustHaveSkills":["Apply Mode - Direct Referral","JAVA", "Selenium","POM"],
-        "applyMode":"Referral - Refer/Share Resume to -",
-        "website":"gunjan.t@spnglobe.com",
-        "Description":{
-            
-                        "rolesAndResponsibilities":"",
-                        "requirements":""
-                    }
-
-
-    },
-    {   
-        "id":"2",
-        "addedDate":"05/01/2025",
-        "companyName":"SPN GLOBE",
-        "position":"TIBCO Devops Engineer",
-        "positionType":"Full Time Permanent Position",
-        "salary":"",
-        "workMode":"Hybrid Work Culture",
-        "location":"Nagpur, Pune, Chennai, Bengluru",
-        "Timing":"",
-        "experienceRequired":"3-5 years experience",
-        "mustHaveSkills":["Apply Mode - Direct Referral"],
-        "applyMode":"Referral - Refer/Share Resume to -",
-        "website":"gunjan.t@spnglobe.com",
-        "Description":{
-            
-                        "rolesAndResponsibilities":"",
-                        "requirements":""
-                    }
-
-
-    },
-    {   
-        "id":"2",
-        "addedDate":"05/01/2025",
-        "companyName":"SPN GLOBE",
-        "position":"Java Lead + Scrum Master",
-        "positionType":"Full Time Permanent Position",
-        "salary":"",
-        "workMode":"Hybrid Work Culture",
-        "location":"Hyderabad",
-        "Timing":"",
-        "experienceRequired":"10 - 16 years experience",
-        "mustHaveSkills":["Apply Mode - Direct Referral"],
-        "applyMode":"Referral - Refer/Share Resume to -",
-        "website":"gunjan.t@spnglobe.com",
-        "Description":{
-            
-                        "rolesAndResponsibilities":"",
-                        "requirements":""
-                    }
-
-
-    },
-    {   
-        "id":"2",
-        "addedDate":"05/01/2025",
-        "companyName":"SPN GLOBE",
-        "position":"Mulesoft Developer",
-        "positionType":"Full Time Permanent Position",
-        "salary":"",
-        "workMode":"Hybrid Work Culture",
-        "location":"Pune",
-        "Timing":"",
-        "experienceRequired":"5-10 years experience",
-        "mustHaveSkills":["Apply Mode - Direct Referral"],
-        "applyMode":"Referral - Refer/Share Resume to -",
-        "website":"gunjan.t@spnglobe.com",
-        "Description":{
-            
-                        "rolesAndResponsibilities":"",
-                        "requirements":""
-                    }
-
-
-    },
-    {   
-        "id":"2",
-        "addedDate":"05/01/2025",
-        "companyName":"SPN GLOBE",
-        "position":"UI/UX Designer",
-        "positionType":"Full Time Permanent Position",
-        "salary":"",
-        "workMode":"Hybrid Work Culture",
-        "location":"All India",
-        "Timing":"",
-        "experienceRequired":"10+ years experience",
-        "mustHaveSkills":["Apply Mode - Direct Referral"],
-        "applyMode":"Referral - Refer/Share Resume to -",
-        "website":"gunjan.t@spnglobe.com",
-        "Description":{
-            
-                        "rolesAndResponsibilities":"",
-                        "requirements":""
+                        "requirements":[
+                            "Not Available"
+                    ]
                     }
 
 
     }
+
+    
 
 ]

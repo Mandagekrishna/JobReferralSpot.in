@@ -116,7 +116,7 @@ export default function FreshersJobsList()
 
 <Paper elevation={4} sx={{width:'100%'}}>
            <Grid>
-                welcome
+              ad
             </Grid>
             
 </Paper>

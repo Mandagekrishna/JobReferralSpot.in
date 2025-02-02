@@ -115,7 +115,7 @@ export default function InternshipListMui()
 
 <Paper elevation={4} sx={{width:'100%'}}>
            <Grid>
-                welcome
+                ad
             </Grid>
             
 </Paper>
