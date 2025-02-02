@@ -30,9 +30,9 @@ export default function InternshipListMui()
     <Typography variant='h3' sx={{fontWeight:600}}>Internships</Typography>
     </Grid>
 </Grid>
-<Grid container  rowSpacing={1}   >
+<Grid container columns={12}  rowSpacing={1}   >
 
-<Grid size={{xs:10,sm:9,md:8}}  offset={0.3} sx={{marginRight:'7%'}}  >
+<Grid size={{xs:8,sm:9,md:8}} columns={10} offset={0.3} sx={{marginRight:'7%'}}  >
                 
              {
              InternshipData.map(element => { 
@@ -111,7 +111,7 @@ export default function InternshipListMui()
 
 
 
-<Grid container size={{xs:0.5,md:2.5}} sx={{backgroundColor:'lightblue'}}>
+<Grid container size={{xs:2,md:2.5}} sx={{backgroundColor:'lightblue'}}>
 
 <Paper elevation={4} sx={{width:'100%'}}>
            <Grid>

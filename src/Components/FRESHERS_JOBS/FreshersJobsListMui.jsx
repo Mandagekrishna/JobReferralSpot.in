@@ -31,9 +31,9 @@ export default function FreshersJobsList()
     <Typography variant='h3'>Freshers Jobs</Typography>
     </Grid>
 </Grid>
-<Grid container  rowSpacing={1} >
+<Grid container columns={12}   rowSpacing={1} >
 
-<Grid size={{md:8}} columns={10} offset={0.3} sx={{marginRight:'60px'}}  >
+<Grid size={{xs:8,md:8}}  offset={0.3} sx={{marginRight:'7%'}}  >
                 
              {
              JobsData.map(element => { 
@@ -112,7 +112,7 @@ export default function FreshersJobsList()
 
 
 
-<Grid container size={{md:2.5}} sx={{backgroundColor:'lightblue'}}>
+<Grid container size={{xs:2,md:2.5}} sx={{backgroundColor:'lightblue'}}>
 
 <Paper elevation={4} sx={{width:'100%'}}>
            <Grid>
