@@ -1,181 +1,127 @@
 [
     {   
         "id":"1",
-        "addedDate":"04/01/2024",
-        "companyName":"TOOTHROCKET",
-        "position":"Embedded Systems Internship",
+        "addedDate":"03/02/2025",
+        "companyName":"CloudGemini Solutions",
+        "position":"Python Developer Internship",
         "positionType":"Internship-Full Time - with job offer",
         "salary":"₹ 7,000-10,000 /month",
-        "workMode":"Full-Time",
-        "location":"Pune",
+        "workMode":"Remote",
+        "location":"Remote",
         "experienceRequired":"Freshers Applicable",
         "mustHaveSkills":[
-                                "Arduino",
-                            "C++ Programming",
-                            "Circuit Design",
-                            " C Programming",
-                            "EAGLE",
-                            "Embedded Systems",
-                            "Internet of Things (IoT)"
+                                "Basic knowledge of Python programming"
                         ],
-        "applyMode":"Internshala",
-        "applyLink":"https://internshala.com/internship/details/embedded-systems-internship-in-pune-at-toothrocket1735804304",
+        "applyMode":"Website",
+        "applyLink":"https://cloudgeminisolutions.zohorecruit.in/jobs/Careers/164230000000938758/Python-Developer-Internship-Remote?source=LinkedIn-Basic&embedsource=LinkedIn%2BLimited%2BListings",
         "Description":{
             
                         "rolesAndResponsibilities":[
-                            "1. Develop and implement embedded systems solutions using ESP32 programming.",
-                            "2. Assist in soldering components onto printed circuit boards (PCBs) following best practices.",
-                            "3. Collaborate with the team to design and prototype PCBs for various projects.",
-                            "4. Troubleshoot and debug embedded systems to ensure functionality and performance.",
-                            "5. Participate in testing and quality assurance processes to validate system integrity.",                            
-                            "Note: This job description is intended to convey information essential to understanding the scope of the intern position. Specific duties and responsibilities may vary based on project requirements and organizational needs.",
-                            "Contribute to the creation and optimization of Cloud Pages to enhance the overall effectiveness of the program."
+                            "Assist in the design, development, and maintenance of Python-based applications and backend services.",
+                            "Write clean, efficient, and well-documented code, following best coding practices.",
+                            "Collaborate with senior developers to build, test, and deploy web applications and software.",
+                            "Participate in code reviews to maintain high-quality standards and ensure the delivery of robust applications.",
+                            "Work on debugging, troubleshooting, and optimizing Python code for improved performance and scalability.",
+                            "Participate in creating and maintaining APIs for internal and external systems.",
+                            "Learn and apply industry best practices in Python programming and software development.",
+                            "Test and deploy applications and systems, ensuring they are functional and user-friendly.",
+                            "Assist in maintaining version control and collaborate with team members using Git."
                         ],
 
                         "requirements":[
-                            "1. Proficiency in ESP32 programming and development.",
-                            "2. Basic knowledge of soldering techniques and PCB assembly.",
-                            "3. Familiarity with PCB design tools and software.",
-                            "4. Strong problem-solving skills and attention to detail.",
-                            "5. Ability to work effectively in a team environment.",
-                            "6. Excellent communication and organizational skills.",
-                            "7. Enthusiasm to learn and contribute to real-world embedded systems projects.",
-                            "8. Pursuing a degree in electrical engineering, computer engineering, or a related field.",
-                            "9. Previous experience with embedded systems development.",
-                            "10. Understanding of circuit design principles and schematic capture.","\n",
-
-                            "Only those candidates can apply who:",
-                            "1. are available for full time (in-office) internship",                            
-                            "2. can start the internship between 2nd Jan'25 and 6th Feb'25",                            
-                            "3. are available for duration of 3 months",                            
-                            "4. have relevant skills and interests " 
+                            "Recent graduate or student with a background in Computer Science, Information Technology, or a related field.",
+                            "Basic knowledge of Python programming, object-oriented programming (OOP), and data structures.",
+                            "Familiarity with web development frameworks like Django or Flask is a plus.",
+                            "Strong understanding of version control systems (e.g., Git).",
+                            "Ability to learn new programming languages and technologies quickly.",
+                            "Familiarity with databases (e.g., MySQL, PostgreSQL, or MongoDB) is an advantage.",
+                            "Strong problem-solving and analytical skills.",
+                            "Good communication skills and the ability to work collaboratively in a remote environment.",
+                            "A passion for coding and building innovative software solutions."
 
                         ]
                     }
 
 
     },
-
-    
-
-
-
     {   
         "id":"2",
-        "addedDate":"04/01/2024",
-        "companyName":"Innover Labs",
-        "position":"Web Development",
-        "positionType":"Full Time - with job offer",
-        "salary":"₹ 7,500 /month",
-        "workMode":"In office",
-        "location":"Pune",
+        "addedDate":"03/02/2025",
+        "companyName":"Extension Technologies Pvt. Ltd",
+        "position":"JavaScript Developer",
+        "positionType":"Internship-Full Time - with job offer",
+        "salary":"stipend - not mentioned",
+        "workMode":"Full Time",
+        "location":"Faridabad, India",
         "experienceRequired":"Freshers Applicable",
         "mustHaveSkills":[
-            "CSS",
-            "HTML",
             "JavaScript",
-            "MongoDB",
-            "MySQL",
             "Node.js",
-            "ReactJS"
-    ],
-
-        "applyMode":"website",
-        "applyLink":"https://internshala.com/internship/details/web-development-internship-in-pune-at-innover-labs1735186912",
-
+            "ReactJS",
+            "JSON",
+            "SQL",
+            "Rest API"
+                        ],
+        "applyMode":"Website",
+        "applyLink":"https://extensionerp.zohorecruit.com/jobs/Careers/556804000006641054/JavaScript-Developer?source=CareerSite",
         "Description":{
-            "rolesAndResponsibilities":[
+            
+                        "rolesAndResponsibilities":[
+                            "Selected intern's day-to-day responsibilities include:",
+                            "Working on web development",
+                            "Working on JavaScript, its quirks, and workarounds ",
+                            "Working on meta markup languages like XML and JSON",
+                            "Meeting with the design team and functional team to discuss application features and design ideas",
+                            "Debugging code errors and troubleshooting software issues",
+                            "Conducting live application tests and tweaks"
+                        ],
 
-                "1. Develop reusable components",
-                "2. Match the UI design with 90% accuracy",
-                "3. Integrate and develop the functionality",
-                "4. Make the overall code to high performance",
-                "5. Develop API on nodejs and must have good knowledge with sql and nosql databases",
-                "If you are not able to do things mentioned above, please dont apply for this internship, You would face problems while interview and that will lead to high chance of rejection of the candidature."
-                            ],
-            "requirements":[
-                "Only those candidates can apply who:",
+                        "requirements":[
+                            "JavaScript",
+                            "Node.js",
+                            "ReactJS",
+                            "JSON",
+                            "SQL",
+                            "Rest API"
 
-                "1. are available for full time (in-office) internship",
-
-                "2. can start the internship between 24th Dec'24 and 28th Jan'25",
-
-                "3. are available for duration of 6 months",
-
-                "4. are from or open to relocate to Pune and neighboring cities",
-
-                "5. have relevant skills and interests",
-
-                "Other requirements",
-                "1. Should be in the last semester of there college",
-
-                "2. This internship will extend for another 6 months, once first 6 months are completed",
-
-                "3. This internship comes with PPO, with starting package of 2.5LPA",
-
-                "4. Accommodation will be provided by company."
-            ]
-        }
+                        ]
+                    }
 
 
     },
-
-
-    
-
     {   
         "id":"3",
-        "addedDate":"04/01/2024",
-        "companyName":"Chistats Labs Private Limited",
-        "position":"Data Science/Data Engineering",
-        "positionType":"Internship Full Time - with job offer",
-        "salary":"₹ 10,000 /month",
-        "workMode":"In office",
-        "location":"Pune",
+        "addedDate":"03/02/2025",
+        "companyName":"Elementis",
+        "position":"Full Stack Web Development Intern",
+        "positionType":"Internship-Full Time - with job offer",
+        "salary":"stipend - not mentioned",
+        "workMode":"Full Time",
+        "location":"Pune, Maharashtra, India",
         "experienceRequired":"Freshers Applicable",
         "mustHaveSkills":[
-            "Database Management System (DBMS)",
-            "Data Science",
-            "Data Structures",
-            "Machine Learning",
-            "Python",
-            "REST API",
-            "SQL"
-    ],
-
-        "applyMode":"website",
-        "applyLink":"https://internshala.com/internship/details/data-science-data-engineering-internship-in-pune-at-chistats-labs-private-limited1734516858",
-
+            "React.js and Django"
+                        ],
+        "applyMode":"Website",
+        "applyLink":"https://extensionerp.zohorecruit.com/jobs/Careers/556804000006641054/JavaScript-Developer?source=CareerSite",
         "Description":{
-            "rolesAndResponsibilities":[
-                "Selected intern's day-to-day responsibilities include:",
-"1. Solve fast-paced assignments and hands-on exercises based on Python, Pandas, Numpy, APIs, and SQL",
-"2. Get reviewed by the tests at end of each module during the training period",
-"3. Work on strong foundation case studies and projects assigned to take out your best version",
-"4. Interact with employees in the organization to better understand the industry and real-life projects",
-"Skills & Requirements:",
-"1. Should be available for a full-time in-office internship for 3 months starting in March 2025.",
-"2. Applicable for students passed out in 2023, 2024 and passing out in 2025.",
-"3. Good knowledge of developing APIs and managing database systems in Python and SQ, will be appreciated.",
-"Perks:",
-"1. On exceptional performance, get a chance to collaborate with data scientists, engineers, and architects on several projects"
-
-                         ],
-
-            "requirements":[
-                "Only those candidates can apply who:",
-
-                "1. are available for full time (in-office) internship",
-               
-                "2. can start the internship between 3rd Mar'25 and 31st Mar'25",
             
-                "3. are available for duration of 3 months",
-          
-                "4. have relevant skills and interests",
-               
-                "* Women wanting to start/restart their career can also apply."
-            ]
-        }
+                        "rolesAndResponsibilities":[
+                            "Revise, edit, proofread & optimize web content",
+                            "Work with cross-functionally to enhance overall user experience of our platforms",
+                            "Own various design tasks involved in the web development life cycle from start to finish",
+                            "Develop and maintain frontend of websites"
+                        ],
+
+                        "requirements":[
+                            "Bachelor's degree or equivalent experience in Computer Science",
+                            "Freshers can apply, should have a passion to learn and work hard.",
+                            "Should have a strong grasp on React.js and Django",
+                            "Proficiency in at least one server-side technology (Java, PHP, NodeJS, Python, Ruby)",
+                            "Ability to multi-task, organize, and prioritize work"
+
+                        ]
+                    }
 
 
     }
