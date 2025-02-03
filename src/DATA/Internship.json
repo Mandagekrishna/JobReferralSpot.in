@@ -6,7 +6,7 @@
         "position":"Python Developer Internship",
         "positionType":"Internship-Full Time - with job offer",
         "salary":"Stipend Not mentioned",
-        "workMode":"Full Time",
+        "workMode":"Remote",
         "location":"Remote",
         "experienceRequired":"Freshers Applicable",
         "mustHaveSkills":[
@@ -38,87 +38,6 @@
                             "Strong problem-solving and analytical skills.",
                             "Good communication skills and the ability to work collaboratively in a remote environment.",
                             "A passion for coding and building innovative software solutions."
-
-                        ]
-                    }
-
-
-    },
-    {   
-        "id":"2",
-        "addedDate":"03/02/2025",
-        "companyName":"Extension Technologies Pvt. Ltd",
-        "position":"JavaScript Developer",
-        "positionType":"Internship-Full Time - with job offer",
-        "salary":"stipend - not mentioned",
-        "workMode":"Full Time",
-        "location":"Faridabad, India",
-        "experienceRequired":"Freshers Applicable",
-        "mustHaveSkills":[
-            "JavaScript",
-            "Node.js",
-            "ReactJS",
-            "JSON",
-            "SQL",
-            "Rest API"
-                        ],
-        "applyMode":"Website",
-        "applyLink":"https://extensionerp.zohorecruit.com/jobs/Careers/556804000006641054/JavaScript-Developer?source=CareerSite",
-        "Description":{
-            
-                        "rolesAndResponsibilities":[
-                            "Selected intern's day-to-day responsibilities include:",
-                            "Working on web development",
-                            "Working on JavaScript, its quirks, and workarounds ",
-                            "Working on meta markup languages like XML and JSON",
-                            "Meeting with the design team and functional team to discuss application features and design ideas",
-                            "Debugging code errors and troubleshooting software issues",
-                            "Conducting live application tests and tweaks"
-                        ],
-
-                        "requirements":[
-                            "JavaScript",
-                            "Node.js",
-                            "ReactJS",
-                            "JSON",
-                            "SQL",
-                            "Rest API"
-
-                        ]
-                    }
-
-
-    },
-    {   
-        "id":"3",
-        "addedDate":"03/02/2025",
-        "companyName":"Elementis",
-        "position":"Full Stack Web Development Intern",
-        "positionType":"Internship-Full Time - with job offer",
-        "salary":"stipend - not mentioned",
-        "workMode":"Full Time",
-        "location":"Pune, Maharashtra, India",
-        "experienceRequired":"Freshers Applicable",
-        "mustHaveSkills":[
-            "React.js and Django"
-                        ],
-        "applyMode":"Website",
-        "applyLink":"https://extensionerp.zohorecruit.com/jobs/Careers/556804000006641054/JavaScript-Developer?source=CareerSite",
-        "Description":{
-            
-                        "rolesAndResponsibilities":[
-                            "Revise, edit, proofread & optimize web content",
-                            "Work with cross-functionally to enhance overall user experience of our platforms",
-                            "Own various design tasks involved in the web development life cycle from start to finish",
-                            "Develop and maintain frontend of websites"
-                        ],
-
-                        "requirements":[
-                            "Bachelor's degree or equivalent experience in Computer Science",
-                            "Freshers can apply, should have a passion to learn and work hard.",
-                            "Should have a strong grasp on React.js and Django",
-                            "Proficiency in at least one server-side technology (Java, PHP, NodeJS, Python, Ruby)",
-                            "Ability to multi-task, organize, and prioritize work"
 
                         ]
                     }
