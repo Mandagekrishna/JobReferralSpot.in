@@ -14,7 +14,7 @@ import InternshipListMui from './Components/INTERNSHIPS/InternshipListMui'
 import InternshipDetailsPageMui from './Components/INTERNSHIPS/InternshipDetailsPageMui'
 
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-import {Analytics} from '@vercel/analytics/next';
+import {Analytics} from '@vercel/analytics/react';
 
 // import { Analytics } from '@vercel/analytics/next'
 
@@ -33,13 +33,14 @@ function App() {
   return (
 
     <>
+   
     <ThemeProvider theme={theme}>
-    <Analytics />
+    <Analytics/>
     {/* <Analytics></Analytics> */}
       <Router>
    <NavBar></NavBar>
     <p style={{color:'red'}}> Site is in development phase. Please open in Desktop for better view</p>
-
+    
        
    
                 
@@ -67,7 +68,9 @@ function App() {
 
       </Routes>        
       </Router>
+     
       </ThemeProvider>
+    
     </>
   )
 }
