@@ -43,5 +43,130 @@
                     }
 
 
+    },
+    {   
+        "id":"2",
+        "addedDate":"07/02/2025",
+        "companyName":"Futuready",
+        "position":"Web Developer Intern",
+        "positionType":"Internship-Full Time",
+        "salary":"10000",
+        "workMode":"On-site",
+        "location":"Andheri East, Mumbai",
+        "experienceRequired":"Freshers Applicable",
+        "mustHaveSkills":[
+            "PHP"," HTML"," CSS","JavaScript"
+                        ],
+        "applyMode":"Website",
+        "applyLink":"https://www.linkedin.com/jobs/view/4144128982/?refId=VHwqs1ZAQDWB3beqnp4UZg%3D%3D&trackingId=VHwqs1ZAQDWB3beqnp4UZg%3D%3D",
+        "Description":{
+            
+                        "rolesAndResponsibilities":[
+                            "Assist in developing and maintaining websites using PHP, HTML, CSS, and JavaScript.",
+                            "Collaborate with the team to enhance UI/UX and ensure responsive web design.",
+                            "Debug and troubleshoot website issues.",
+                            "Optimize web pages for speed and scalability.",
+                            "Work with databases and integrate APIs as needed.",
+                            "Stay updated with the latest web development trends and technologies."
+                        ],
+
+                        "requirements":[
+                            "Basic knowledge of PHP, HTML, CSS, and JavaScript.",
+                            "Understanding of responsive design principles.",
+                            "Familiarity with MySQL or other databases (a plus).",
+                            "Problem-solving skills and attention to detail.",
+                            "Ability to work independently and as part of a team."
+
+                        ]
+                    }
+
+
+    },
+    {   
+        "id":"3",
+        "addedDate":"07/02/2025",
+        "companyName":"Quantum IT Innovation",
+        "position":"Software Testing(QA) Trainee/Intern",
+        "positionType":"Internship-Full Time  6months (Conversion to Permanent Employment based on performance)",
+        "salary":"stipend Not Mentioned",
+        "workMode":"Remote",
+        "location":"Remote",
+        "experienceRequired":"Freshers Applicable",
+        "mustHaveSkills":[
+            "Database Testing", "GUI Testing"," Manual Testing", "Software Testing"
+                        ],
+        "applyMode":"Send resume to   - sanchitha@quantumitinnovation.com",
+        "applyLink":"",
+        "Description":{
+            
+                        "rolesAndResponsibilities":[
+                            "Perform testing on various software",
+                            "Develop test plans, test cases, test scripts, and test reports on multiple projects of varying size",
+                            "Validate that user expectations are achieved during the testing process",
+                            "Review user requirements documents to ensure that requirements are testable",
+                            "Maintain working knowledge of quality standards",
+                            "Create, review and refine user experience documents"
+                        ],
+
+                        "requirements":[
+                            "2023 and 2024 passed out graduates or post graduates",
+                            "Must have done one internship or course or training in QA/Software Testing",
+                            "Must have IPHONE(Mandatory)"
+
+                        ]
+                    }
+
+
+    },
+    {   
+        "id":"4",
+        "addedDate":"07/02/2025",
+        "companyName":"IKEA",
+        "position":"Junior Software Engineer",
+        "positionType":"Internship-Full Time - 2 Months",
+        "salary":"stipend Not Mentioned",
+        "workMode":"Full Time Permanent",
+        "location":"Bengaluru",
+        "experienceRequired":"Freshers Applicable",
+        "mustHaveSkills":[
+            "Python programming"
+                        ],
+        "applyMode":"Apply at Below Link",
+        "applyLink":"https://ikea.avature.net/en_US/External/JobDetail?id=273176?source=LinkedIn",
+        "Description":{
+            
+                        "rolesAndResponsibilities":[
+                            "• Develop, test, and maintain high-quality Python code under the guidance of senior developers.",
+                            "• Work collaboratively with cross-functional teams to deliver software solutions that meet business requirements.",
+                            "• Participate in code reviews and provide constructive feedback to peers, enhancing code quality.",
+                            "• Research and integrate new technologies that can enhance application performance and stability.",
+                            "• Assist in troubleshooting and resolving application issues, ensuring smooth operation of software.",
+                            "• Document software functionalities to streamline future enhancements and maintenance.",
+                            "• Contribute innovative ideas to the development process, fostering a culture of continuous improvement.",
+                            "• Participate in team meetings and contribute to the planning and execution of project tasks."
+                        ],
+
+                        "requirements":[
+                            "• Proficiency in Python programming is required as it is the primary tech stack for this role. (Mandatory skill)",
+                            "• Understanding of object-oriented programming principles to organize code efficiently. (Mandatory skill)",
+                            "• Familiarity with software development life cycle, enabling smooth project execution. (Mandatory skill)",
+                            "• Databases knowledge of either of the one from Postgres, Mongodb, Elasticsearch or Neo4j",
+                            "• Understanding of data structures to facilitate optimal data management within applications.",
+                            "• Ability to implement algorithms that solve specific logic problems effectively.",
+                            "• Problem-solving skills to tackle coding challenges and develop innovative solutions.",
+                            "• Debugging skills to identify, analyze, and rectify software issues promptly.",
+                            "• Demonstrated capability in team collaboration for successful project development and delivery.",
+                            "• Understanding of current innovations in the data management landscape – especially the Data Mesh framework",
+                            "• Currently a student in Bangalore Engineering College",
+                            "• You live in Bangalore and have the possibility to commute full time to the office in Karle Town Center, Nagawara",
+                            "We only accept students who live within commuting distance of the office in Karle Town Center, Nagawara Bangalore during the time of the internship connected to a College/University within Bangalore.",
+                            "No exceptions will be made. This is a paid internship.",
+                            "Duration: 3rd March -31st May 2025. The preferred starting date is the 1st of March 2025.",
+                            "we only accept applications through our recruitment system."
+
+                        ]
+                    }
+
+
     }
 ]

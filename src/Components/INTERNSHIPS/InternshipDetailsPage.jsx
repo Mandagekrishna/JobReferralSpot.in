@@ -44,8 +44,8 @@ export default function InternshipDetailsPageMui(){
 
 
             <div className={styles.element4}>
-                <h4> How to apply</h4>
-                <p>Apply at link - <a href={currentInternship[0]['applyLink']}>click here</a> </p>  
+                <h4> How to apply - {currentInternship[0]['applyMode']}</h4>
+                <p>{currentInternship[0]["applyLink"]}</p>  
             </div>
 
 
