@@ -1,0 +1,26 @@
+[
+    {
+        "id":"1",
+        "imgSrc":"https://m.media-amazon.com/images/I/61Q0cOzEJZL._SL1500_.jpg",
+        "productTitle":"Axor Apex Streak Black Red Helmet-M",
+        "actualPrice":"M.R.P.: ₹4,994",
+        "discountedPrice":"-12%  ₹4,395",
+        "productUrl":"https://amzn.to/3WSK069"
+    },
+    {
+        "id":"2",
+        "imgSrc":"https://m.media-amazon.com/images/I/71RFdy6y6LL._SL1500_.jpg",
+        "productTitle":"boAt Airdopes 141, Low Latency, ENx Tech, 42HRS Battery, Fast Charge, IWP, IPX4, v5.1 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Bold Black)",
+        "actualPrice":"M.R.P.: ₹4,490",
+        "discountedPrice":"-78% ₹999",
+        "productUrl":"https://amzn.to/40Sg4bw"
+    },
+    {
+        "id":"3",
+        "imgSrc":"https://m.media-amazon.com/images/I/61sU8OqBs4L._SL1500_.jpg",
+        "productTitle":"Samsung Galaxy S25 Ultra 5G AI Smartphone (Titanium Silverblue, 12GB RAM, 512GB Storage), 200MP Camera, S Pen Included, Long Battery Life",
+        "actualPrice":"M.R.P.: ₹1,41,999",
+        "discountedPrice":"-8% ₹1,29,999",
+        "productUrl":"https://amzn.to/4aRp2dN"
+    }
+]

@@ -24,6 +24,7 @@ include component   <Analytics/> in App.js
 
 
 # next step
+add search and filter section on all pages
 add amazon affaliate links in place of ad when viewers increases
 add section -OTHER RESOURCES TO LOOK FOR in home page where we add 
     - different sources for learning like https://frontendmasters.com/guides/

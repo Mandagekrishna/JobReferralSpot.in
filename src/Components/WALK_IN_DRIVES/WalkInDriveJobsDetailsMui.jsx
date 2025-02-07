@@ -10,11 +10,19 @@ import Typography from '@mui/material/Typography';
 import { Card, Paper } from '@mui/material';
 import Button from '@mui/material/Button';
 import { Box } from '@mui/material';
+import adProduct from '../../DATA/Advertisements.json'
+import CardContent from '@mui/material/CardContent';
+import CardMedia from '@mui/material/CardMedia';
+import CardActionArea from '@mui/material/CardActionArea';
+import CardActions from '@mui/material/CardActions';
+import Link from '@mui/material/Link';
 
 
 export default function JobsDetailsPage(){
 
     let [JobsData,updateData] = useState(Data);
+    let [adProducts, updateProducts] = useState(adProduct);
+
     let {id} = useParams();
     let currentJobs = JobsData.filter(element => element["id"]==id)
     console.log(currentJobs)
@@ -80,7 +88,42 @@ export default function JobsDetailsPage(){
 
 <Paper elevation={4} sx={{width:'100%'}}>
    <Grid>
-        ad
+   {adProducts.map(adProductElement => { 
+                                                return(         
+            <Button>   <Link target="_blank" href={adProductElement['productUrl']} sx={{underline:'none',textDecoration:'none', color:'inherit'}}>
+                        <Card sx={{justifyContent:'center', maxWidth: 345 }}>
+                    <CardActionArea>
+                        <CardMedia
+                        component="img"
+                        // height="400" 
+                        sx={{justifySelf:'center',minheight:{md:'100px'}, width:{md:'200px'}}}
+                        image={adProductElement['imgSrc']}
+                        alt="img"
+                        
+                        />
+                        <CardContent>
+                        <Typography gutterBottom variant="h6" component="div">
+                        {adProductElement['productTitle']} 
+                        </Typography>
+                        <Typography variant="body2" sx={{ color: 'text.secondary', textDecoration:'line-through' }}>
+                        {adProductElement['actualPrice']}
+                        </Typography>
+                        <Typography variant="h5" sx={{ color: 'text.secondary' }}>
+                        {adProductElement['discountedPrice']}
+                        </Typography>
+                      
+                        </CardContent>
+                    </CardActionArea>
+                    <CardActions>
+                        <Button size="small" color="primary" > <Link target="_blank" href={adProductElement['productUrl']} sx={{underline:'none',textDecoration:'none', color:'inherit'}}> Get now</Link>
+                       
+                        </Button>
+                    </CardActions>
+                    </Card>
+        </Link> </Button>)
+           }
+        )
+    }
     </Grid>
     
 </Paper>
