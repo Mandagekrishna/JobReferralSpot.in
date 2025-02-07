@@ -22,17 +22,21 @@ export default function AdHome(){
     return(
         <>
            
-           <Grid container size={{md:2.5}} >
+           <Grid container size={{md:2.5}}>
 
 
 
 
 <Paper elevation={4} sx={{width:'100%', marginTop:{md:'50px'}}}>
-   <Grid>
+   <Grid container sx={{
+    justifyContent: "space-evenly",
+    alignItems: "center",
+   
+  }} >
    {adProducts.map(adProductElement => { 
                                                 return(         
             <Button>   <Link target="_blank" href={adProductElement['productUrl']} sx={{underline:'none',textDecoration:'none', color:'inherit'}}>
-                        <Card sx={{justifyContent:'center', maxWidth: 345}}>
+                        <Card sx={{justifyContent:'center', maxWidth: {md:345}, minHeight:{md:500}}}>
                     <CardActionArea>
                         <CardMedia
                         component="img"
