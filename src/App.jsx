@@ -16,7 +16,7 @@ import InternshipDetailsPageMui from './Components/INTERNSHIPS/InternshipDetails
 
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import {Analytics} from '@vercel/analytics/react';
-import NavBarCopy from './Components/NavBarCopy'
+import NavBarMui from './Components/NavBarMui'
 import { ListItem,Box  } from '@mui/material'
 
 // import { Analytics } from '@vercel/analytics/next'
@@ -46,7 +46,7 @@ function App() {
    {/* <NavBar></NavBar> */}
    {/* <NavBarCopy></NavBarCopy> */}
    <div>
-    <NavBarCopy updateDrawer={updateDrawer}></NavBarCopy>
+    <NavBarMui updateDrawer={updateDrawer}></NavBarMui>
    </div>
 
 
