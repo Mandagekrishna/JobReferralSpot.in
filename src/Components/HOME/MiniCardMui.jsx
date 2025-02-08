@@ -36,7 +36,7 @@ export default function MiniCard(){
 
                 <NavLink to='/WalkInDriveJobsList' >
                 <Button variant="contained" sx={{width:300,height:100,backgroundColor:'#5c6bc0'}}>
-                        WALK-IN INTERVIEWS
+                        WALK-IN DRIVES
                 </Button>
               </NavLink> 
 </Stack>

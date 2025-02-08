@@ -18,7 +18,7 @@ export default function Home(){
                        
                             <MiniCard></MiniCard>
                            
-                            <AdHome></AdHome>
+                            {/* <AdHome></AdHome> */}
                          
                             <Footer></Footer>
                          </Stack>

@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import NavBar from './Components/NavBar'
 import { BrowserRouter as Router, Routes, Route, NavLink } from 'react-router-dom'
+
 import Home from './Components/HOME/Home'
 import InternshipList from './Components/INTERNSHIPS/InternshipList'
 import InternshipDetailsPage from './Components/INTERNSHIPS/InternshipDetailsPage'
@@ -15,6 +16,8 @@ import InternshipDetailsPageMui from './Components/INTERNSHIPS/InternshipDetails
 
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import {Analytics} from '@vercel/analytics/react';
+import NavBarCopy from './Components/NavBarCopy'
+import { ListItem,Box  } from '@mui/material'
 
 // import { Analytics } from '@vercel/analytics/next'
 
@@ -30,6 +33,8 @@ function App() {
     },
   });
 
+  let [drawerStatus,updateDrawer]=useState("");
+
   return (
 
     <>
@@ -38,17 +43,26 @@ function App() {
     <Analytics/>
     {/* <Analytics></Analytics> */}
       <Router>
-   <NavBar></NavBar>
-    <p style={{color:'red'}}> Site is in development phase. Please open in Desktop for better view</p>
+   {/* <NavBar></NavBar> */}
+   {/* <NavBarCopy></NavBarCopy> */}
+   <div>
+    <NavBarCopy updateDrawer={updateDrawer}></NavBarCopy>
+   </div>
+
+
+
+
+    {/* <p style={{color:'red'}}> Site is in development phase. Please open in Desktop for better view</p> */}
     
        
    
                 
     
-   
+  
+      <Box sx={{marginLeft:{md:drawerStatus?'280px':'60px'}}}>
 
       <Routes>
-
+    
             <Route path='/' element={<Home></Home>}></Route>
             <Route path='/Home' element={<Home></Home>}></Route>
             <Route path='/Internships' element={<InternshipListMui></InternshipListMui>}></Route>
@@ -66,7 +80,9 @@ function App() {
 
             
 
-      </Routes>        
+      </Routes>  
+      </Box>
+  
       </Router>
      
       </ThemeProvider>
