@@ -51,7 +51,7 @@ export default function InternshipListMui()
 <Grid container size={12}  rowSpacing={1} sx={{marginBottom:'8%', padding:'10px',height:'auto'}} >
     
         <Grid container spacing={1} >
-            <Grid item  size={{xs:9, md:10}} sx={{minWidth:{md:'500px'}}}>
+            <Grid item  size={{xs:8, md:10}} sx={{minWidth:{md:'500px'}}}>
             <Typography  variant="h5" sx={{fontFamily:'Josefin Sans' }}>{element['position']}</Typography>
             </Grid>
 
@@ -120,7 +120,7 @@ export default function InternshipListMui()
 
 
 
-<Grid container size={{xs:2,md:2.5}} sx={{backgroundColor:'lightblue'}}>
+<Grid container size={{xs:2,md:2.5}}>
 
 <Paper elevation={4} sx={{width:'100%'}}>
            <Grid>
