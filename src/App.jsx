@@ -59,7 +59,7 @@ function App() {
                 
     
   
-      <Box sx={{marginLeft:{md:drawerStatus?'280px':'60px'}}}>
+      <Box sx={{marginLeft:{md:drawerStatus?'280px':'60px',xs:'60px'}}}>
 
       <Routes>
     
