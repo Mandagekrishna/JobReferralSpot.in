@@ -8,7 +8,7 @@
                 },
                 {
                     "bookName":"HIGHER ENGINEERING MATHEMATICS  (Dr.B.S.Grewal) 43 Edition",
-                    "bookImg":"src/assets/REFERENCE BOOKS/bs grewal.jpg",
+                    "bookImg":"/Images/bs grewal.jpg",
                     "bookUrl":"https://amzn.to/4gwRDX6"
                             }
                 ]
@@ -18,17 +18,17 @@
         "subject":"Data Structures",
         "books":[{
                       "bookName":"Classic Data Structures (by Samanta Debasis) - 2nd Edition ",
-                      "bookImg":"src/assets/REFERENCE BOOKS/debasis samanta.jpg",
+                      "bookImg":"/Images/debasis samanta.jpg",
                       "bookUrl":"https://amzn.to/4hl8Zax"
                   },
                   {
                       "bookName":"Data Structures Using C (by Reema Thareja) - 2nd Edition  ",
-                      "bookImg":"src/assets/REFERENCE BOOKS/reema thereja.jpg",
+                      "bookImg":"/Images/reema thereja.jpg",
                       "bookUrl":"https://amzn.to/4hqFDHZ"
                               },
                 {
                     "bookName":"Data Structures and Algorithms Made Easy (by Narasimha Karumanchi) - 5th Edition  ",
-                    "bookImg":"src/assets/REFERENCE BOOKS/narsimha karumanchi.jpg",
+                    "bookImg":"/Images/narsimha karumanchi.jpg",
                     "bookUrl":"https://amzn.to/3QvyfiJ"
                             }
                   ]
@@ -38,12 +38,12 @@
           "subject":"Operating Systems",
           "books":[{
                         "bookName":"Operating System Concepts (by Silberschatz, Galvin, Gagne) - 9th Edition ",
-                        "bookImg":"src/assets/REFERENCE BOOKS/galvin.jpg",
+                        "bookImg":"/Images/galvin.jpg",
                         "bookUrl":"https://amzn.to/4jNCGme"
                     },
                     {
                         "bookName":"Operating Systems- Internal and Design Principles (by William Stallings) - 7th Edition  ",
-                        "bookImg":"src/assets/REFERENCE BOOKS/william stallings.jpg",
+                        "bookImg":"/Images/william stallings.jpg",
                         "bookUrl":"https://amzn.to/419Cgzr"
                                 }
                     ]
@@ -53,7 +53,7 @@
             "subject":"Algorithms",
             "books":[{
                           "bookName":"Introduction to Algorithms (by Thomas H. Cormen) - 3rd Edition ",
-                          "bookImg":"src/assets/REFERENCE BOOKS/cormen.jpeg",
+                          "bookImg":"/Images/cormen.jpeg",
                           "bookUrl":"https://amzn.to/4gDYLAS"
                       }
                       ]
@@ -63,7 +63,7 @@
               "subject":"Theory of Computation",
               "books":[{
                             "bookName":"An Introduction to Formal Languages and Automata  (by Peter Linz) - 5th Edition",
-                            "bookImg":"src/assets/REFERENCE BOOKS/peter linz.jpg",
+                            "bookImg":"/Images/peter linz.jpg",
                             "bookUrl":"https://amzn.to/4jSDWV0"
                         }
                         ]
@@ -73,7 +73,7 @@
                 "subject":"Compiler Design",
                 "books":[{
                               "bookName":"Compilers - Principles, Techniques and Tools (by Aho, Lam, Ravi, Ullman) - 2nd Edition",
-                              "bookImg":"src/assets/REFERENCE BOOKS/compiler aho.jpeg",
+                              "bookImg":"/Images/compiler aho.jpeg",
                               "bookUrl":"https://amzn.to/3CHBtw5"
                           }
                           ]
@@ -83,12 +83,12 @@
                   "subject":"Computer Organization",
                   "books":[{
                                 "bookName":"Computer System Architecture (by Morris Mano) - 3rd Edition",
-                                "bookImg":"src/assets/REFERENCE BOOKS/morris manno CO.jpg",
+                                "bookImg":"/Images/morris manno CO.jpg",
                                 "bookUrl":"https://amzn.to/42NEWUp"
                             },
                             {
                                 "bookName":"Computer Organization and Embedded Systems (by Carl Haacher) - 6th Edition",
-                                "bookImg":"src/assets/REFERENCE BOOKS/hamacher.jpeg",
+                                "bookImg":"/Images/hamacher.jpeg",
                                 "bookUrl":"https://amzn.to/3EqSafU"
                             }
                             ]
@@ -98,12 +98,12 @@
                     "subject":"Computer Networks",
                     "books":[{
                                   "bookName":"Data Communications and Networking (by Behrouz A. Forouzan) - 4th Edition",
-                                  "bookImg":"src/assets/REFERENCE BOOKS/forouzan.jpg",
+                                  "bookImg":"/Images/forouzan.jpg",
                                   "bookUrl":"https://amzn.to/3EycCvq"
                               },
                               {
                                 "bookName":"Computer Networks (by Tanenbaum, Wetherall) - 5th Edition",
-                                "bookImg":"src/assets/REFERENCE BOOKS/tanenbaum.jpg",
+                                "bookImg":"/Images/tanenbaum.jpg",
                                 "bookUrl":"https://amzn.to/4hPYfkh"
                             }
                               ]
@@ -113,7 +113,7 @@
                       "subject":"Database",
                       "books":[{
                                     "bookName":"Database System Concepts (by Henry F. Korth, S.Sudarshan, Silberschatz) - 6th Edition",
-                                    "bookImg":"src/assets/REFERENCE BOOKS/korth.jpg",
+                                    "bookImg":"/Images/korth.jpg",
                                     "bookUrl":"https://amzn.to/4hOu50W"
                                 }
                                 ]
@@ -123,7 +123,7 @@
                         "subject":"Digital",
                         "books":[{
                                       "bookName":"Digital Design (by Morris Mano, Michael D Ciletti) - 5th Edition",
-                                      "bookImg":"src/assets/REFERENCE BOOKS/morris mano deld.png",
+                                      "bookImg":"/Images/morris mano deld.png",
                                       "bookUrl":"https://amzn.to/3Q86P2b"
                                   }
                                   ]
