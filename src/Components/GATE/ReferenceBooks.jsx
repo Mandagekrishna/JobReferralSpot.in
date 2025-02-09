@@ -66,7 +66,7 @@ export default function GateBooks(){
                             </AccordionSummary>
                                 <AccordionDetails>{ element['books'].map(eachBook =>{return(<>
                              <Button sx={{minWidth:1}}>   <Link target="_blank" href={eachBook['bookUrl']} sx={{underline:'none',textDecoration:'none', color:'inherit'}}>
-                                 <Stack size={{md:12}}   direction="row" spacing={7} sx={{alignItems:"center",marginBottom:'20px', justifyContent: "space-between",}} >
+                                 <Stack size={{md:12}}    direction={{ xs: 'column', sm: 'row' }} spacing={7} sx={{alignItems:"center",marginBottom:'20px', justifyContent: "space-between",}} >
                                  
                                     <img style={{height:200, width:150}} src={eachBook['bookImg']}></img>
                                     
