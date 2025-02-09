@@ -65,19 +65,21 @@ export default function GateBooks(){
                             <Typography variant='h4' sx={{marginLeft:'0'}} >{element['subject']}</Typography>
                             </AccordionSummary>
                                 <AccordionDetails>{ element['books'].map(eachBook =>{return(<>
-                             <Button sx={{minWidth:1}}>   <Link target="_blank" href={eachBook['bookUrl']} sx={{underline:'none',textDecoration:'none', color:'inherit'}}>
-                                 <Stack size={{md:12}}    direction={{ xs: 'column', sm: 'row' }} spacing={7} sx={{alignItems:"center",marginBottom:'20px', justifyContent: "space-between",}} >
+                             <Button >   <Link target="_blank" href={eachBook['bookUrl']} sx={{underline:'none',textDecoration:'none', color:'inherit'}}>
+                            
+                                 <Stack  direction={{ xs: 'column', sm: 'row' }}    spacing={16}  sx={{alignItems: "center", }} >
                                  
                                     <img style={{height:200, width:150}} src={eachBook['bookImg']}></img>
                                     
-                                   <Container sx={{minWidth:{md:'660px'}}}>
+                                  
                                     <Typography >{eachBook['bookName']}</Typography>
-                                    </Container>
+                                  
                                    
                                     <Button sx={{justifySelf:'end'}}>Buy Now</Button> 
                                        
                                                     
                                 </Stack>
+                                
                               </Link> </Button>
                                 </>)})
 
