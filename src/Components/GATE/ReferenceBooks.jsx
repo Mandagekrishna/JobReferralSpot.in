@@ -41,7 +41,7 @@ export default function GateBooks(){
         <Grid container>
     <Grid sx={{margin:'20px'}}>
     <Typography variant='h3' sx={{fontWeight:600}}>Computer Engineering Books</Typography>
-    <Typography>Hello everyone, below books suggested will help you in better understing of subject. These books suggested have been read by me 
+    <Typography>Hello everyone, below books suggested will help you in better understanding of subject. These books suggested have been read by me 
         during my academics and they helped me alot in understing subjects in better way with real world applications. Also these books helped me 
         during my GATE preparation and believe me they are worth of reading or referring once.
     </Typography>
