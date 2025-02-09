@@ -216,10 +216,22 @@ export default function MiniDrawer({updateDrawer}) {
            
         </List>
         <Divider />
+
         <List>
-          
+        <NavLink style={{textDecoration:'none', color:'inherit'}} to='/ReferenceBooks'> 
+                <ListItem key='home'  disablePadding sx={{ display: 'block' }}>
+                
+                <ListItemButton>
+                <ListItemIcon><EventNoteIcon /> </ListItemIcon>
+                <ListItemText primary='Reference Books'/>
+                </ListItemButton>        
+                </ListItem>
+            </NavLink> 
         </List>
+
       </Drawer>
+
+
       <Box component="main" sx={{ flexGrow: 1, p: 3 }}>
         <DrawerHeader />
         <Typography sx={{ marginBottom: 2,color:'red' }}>

@@ -18,6 +18,8 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 import {Analytics} from '@vercel/analytics/react';
 import NavBarMui from './Components/NavBarMui'
 import { ListItem,Box  } from '@mui/material'
+import ReferenceBooks from './Components/GATE/ReferenceBooks'
+import TestPage from './Components/TestPage'
 
 // import { Analytics } from '@vercel/analytics/next'
 
@@ -76,6 +78,13 @@ function App() {
 
             <Route path='/FreshersJobsList' element={<FreshersJobsListMui/>}></Route>
             <Route path='/FreshersJobsDetails/:id' element={<FreshersJobsDetailsMui/>}></Route>
+
+            <Route path='/ReferenceBooks' element={<ReferenceBooks/>}></Route>
+            <Route path='/testpage' element={<TestPage/>}></Route>
+
+
+
+
 
 
             

@@ -1,26 +1,26 @@
 [
     {
         "id":"1",
-        "imgSrc":"https://m.media-amazon.com/images/I/61Q0cOzEJZL._SL1500_.jpg",
-        "productTitle":"Axor Apex Streak Black Red Helmet-M",
-        "actualPrice":"M.R.P.: ₹4,994",
-        "discountedPrice":"-12%  ₹4,395",
-        "productUrl":"https://amzn.to/3WSK069"
+        "imgSrc":"https://m.media-amazon.com/images/I/61kDfm8FD7L._SL1500_.jpg",
+        "productTitle":"realme Buds T310 Truly Wireless in-Ear Earbuds with 46dB Hybrid ANC, 360° Spatial Audio, 12.4mm Dynamic Bass Driver, Upto 40Hrs Battery and Fast Charging (Vibrant Black)",
+        "actualPrice":"M.R.P.: ₹3,999",
+        "discountedPrice":"-50% ₹1,999",
+        "productUrl":"https://amzn.to/4aQpKrE"
     },
     {
         "id":"2",
-        "imgSrc":"https://m.media-amazon.com/images/I/71RFdy6y6LL._SL1500_.jpg",
-        "productTitle":"boAt Airdopes 141, Low Latency, ENx Tech, 42HRS Battery, Fast Charge, IWP, IPX4, v5.1 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Bold Black)",
-        "actualPrice":"M.R.P.: ₹4,490",
-        "discountedPrice":"-78% ₹999",
-        "productUrl":"https://amzn.to/40Sg4bw"
+        "imgSrc":"https://m.media-amazon.com/images/I/718wqm5-6rL._SL1500_.jpg",
+        "productTitle":"boAt Nirvana Ion ANC Pro, Hi-Res Audio LDAC,ANC(~32dB), 120Hrs Battery, App Support, Fast Charge, v5.3 Bluetooth TWS in Ear Earbuds Wireless Earphones with mic (Blazing Comet)",
+        "actualPrice":"M.R.P.: ₹13,990",
+        "discountedPrice":"-84% ₹2,299",
+        "productUrl":"https://amzn.to/4jNrfei"
     },
     {
         "id":"3",
-        "imgSrc":"https://m.media-amazon.com/images/I/61sU8OqBs4L._SL1500_.jpg",
-        "productTitle":"Samsung Galaxy S25 Ultra 5G AI Smartphone (Titanium Silverblue, 12GB RAM, 512GB Storage), 200MP Camera, S Pen Included, Long Battery Life",
-        "actualPrice":"M.R.P.: ₹1,41,999",
-        "discountedPrice":"-8% ₹1,29,999",
-        "productUrl":"https://amzn.to/4aRp2dN"
+        "imgSrc":"https://m.media-amazon.com/images/I/71g09REHnkL._SL1500_.jpg",
+        "productTitle":"Noise Halo Plus 1.46 Super AMOLED Display Elite Smart Watch, Bluetooth Calling, Stainless Steel Build, Always on Display, Upto 7 Days Battery (Elite Black)",
+        "actualPrice":"M.R.P.: ₹8,999",
+        "discountedPrice":"-67% ₹2,999",
+        "productUrl":"https://amzn.to/4hvyEgM"
     }
 ]
