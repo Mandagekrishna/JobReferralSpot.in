@@ -161,6 +161,96 @@
                     }
 
 
+    },
+    {   
+        "id":"6",
+        "addedDate":"10/02/2025",
+        "companyName":"Faclon Labs",
+        "position":"Backend Developer L1",
+        "positionType":"Full Time",
+        "salary":"Not Available",
+        "workMode":"Remote",
+        "location":"Mumbai, Maharashtra",
+        "Timing":"Not Mentioned",
+        "experienceRequired":"1-2 Years",
+        "mustHaveSkills":["Node.js","MongoDB","basics of REST APIs"],
+        "applyMode":"Website",
+        "website":"https://www.faclon.com/job-description1",
+        "Description":{
+            
+                        "rolesAndResponsibilities":[
+                            "You'll be part of a team of engineers focused on building out critical components of our Engineering team.",
+                            "Partner with the product and UX/UX teams and other cross functional partners to develop overall vision, strategy and roadmap for our engineering systems and product suites.",
+                            "Champion engineering and operational excellence, establishing metrics and processes for regular assessment and improvement.",
+                            "Establish a solid project framework and excellent development processes.",
+                            "Be open with ideas around technical and architectural direction for the development, design, integration, testing, and maintenance of our products.",
+                            "Follow agile software processes for the engineering team and introduce best-in-class industry practices.",
+                            "Handle technical debt to ensure our development velocity stays responsive and predictable while minimizing production incidents of our operations."
+                       
+                    ],
+
+                        "requirements":[
+                                        "1 - 2 years of work experience architecting, developing, and shipping well tested software products and/or services.",
+                                        "Strong analytic skills and a demonstrated sense of ownership and accountability.",
+                                        "Excellent communication and interpersonal skills and the ability to work with a wide variety of people.",
+                                        "A service-oriented mentality while driving excellence across the organization.",
+                                        "Strong organizational skills, both for yourself and the team.",
+                                        "The ability to balance business needs, a sense of urgency, conflicting constraints, and shipping high quality and pragmatic solutions in a fast-moving and quickly-growing company.",
+                                        "Bachelors/Masters in Computer Science or related field/equivalent practical experience, experience in MEAN stack is a big plus.",
+                                        "Interest in building things from scratch and being a decision maker here.",
+                                        "Critical thinking and problem-solving skills.",
+                                        "Attention to detail and keen eye to build the perfect product."
+                    ]
+                    }
+
+
+    },
+    {   
+        "id":"7",
+        "addedDate":"10/02/2025",
+        "companyName":"Faclon Labs",
+        "position":"Backend Developer L2",
+        "positionType":"Full Time",
+        "salary":"Not Available",
+        "workMode":"Remote",
+        "location":"Mumbai, Maharashtra",
+        "Timing":"Not Mentioned",
+        "experienceRequired":"2-4 Years",
+        "mustHaveSkills":["Node.js","MongoDB","basics of REST APIs"],
+        "applyMode":"Website",
+        "website":"https://www.faclon.com/job-description2",
+        "Description":{
+            
+                        "rolesAndResponsibilities":[
+"You'll build a team of engineers focused on building out critical components of our Engineering team.",
+"Support all facets of team management to attract, engage, retain, and nurture teams of outstanding engineers (e. g., recruitment, mentoring, training and development, performance evaluation).",
+"Partner with the product and UX/UX teams and other cross functional partners to develop overall vision, strategy and roadmap for our engineering systems and product suites.",
+"Champion engineering and operational excellence, establishing metrics and processes for regular assessment and improvement.",
+"Establish a solid project framework and excellent development processes.",
+"Drive an excellent experience, continuously raising the bar on functionality, usability, and simplicity.",
+"Provide technical and architectural direction for the development, design, integration, testing, and maintenance of our products.",
+"Lead agile software processes for the engineering team and introduce best-in-class industry practices.",
+"Handle technical debt to ensure our development velocity stays responsive and predictable while minimizing production incidents of our operations."
+                    ],
+
+                        "requirements":[
+                            "Experience in hiring and performance management of backend teams at SaaS offering companies.",
+                            "Experience in leading engineering teams, including experience in managing Tech Leads.",
+                            "2 - 4 years of work experience architecting, developing, and shipping well tested software products and/or services.",
+                            "Strong analytic skills and a demonstrated sense of ownership and accountability.",
+                            "Excellent communication and interpersonal skills and the ability to work with a wide variety of people.",
+                            "A service-oriented mentality while driving excellence across the organization.",
+                            "Strong organizational skills, both for yourself and the team.",
+                            "Business acumen: Proven understanding of business dynamics, goals, and product strategy. Knowledge of how Engineering fits into the company's overall business.",
+                            "The ability to balance business needs, a sense of urgency, conflicting constraints, and shipping high quality and pragmatic solutions in a fast-moving and quickly-growing company.",
+                            "Bachelors/Masters in Computer Science or related field/equivalent practical experience, experience in MEAN stack is a big plus.",
+                            "Interest in building things from scratch and being a decision maker here.",
+                            "Critical thinking and problem-solving skills.",
+                            "Attention to detail and keen eye to build the perfect product."
+                    ]
+                    }
+
+
     }
 
     

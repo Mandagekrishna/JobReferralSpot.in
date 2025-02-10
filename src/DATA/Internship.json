@@ -169,5 +169,118 @@
                     }
 
 
+    },
+    {   
+        "id":"5",
+        "addedDate":"10/02/2025",
+        "companyName":"Marworx",
+        "position":"Interns",
+        "positionType":"Not Mentioned",
+        "salary":"stipend Not Mentioned",
+        "workMode":"Full Time Permanent",
+        "location":"Pune, Maharashtra",
+        "experienceRequired":"Freshers Applicable",
+        "mustHaveSkills":[
+           
+                        ],
+        "applyMode":"send resume at - hr@marworx.com",
+        "applyLink":"",
+        "Description":{
+            
+                        "rolesAndResponsibilities":[
+                            "Multiple Positions",
+                            "ReactJs",
+                            "QA Testing",
+                            "DevOps",
+                            "React Native",
+                            "IOS Swift",
+                            "Android Kotlin",
+                            "MERN Stack"
+                        ],
+
+                        "requirements":[
+                           
+
+                        ]
+                    }
+
+
+    },
+    {   
+        "id":"6",
+        "addedDate":"10/02/2025",
+        "companyName":"Faclon Labs",
+        "position":"Backend Developer Intern",
+        "positionType":"Internship",
+        "salary":"10000-15000/Month",
+        "workMode":"Full Time Permanent",
+        "location":"Remote",
+        "experienceRequired":"Freshers Applicable",
+        "mustHaveSkills":["MongoDB ","Node.js"
+           
+                        ],
+        "applyMode":"Apply on below site",
+        "applyLink":"https://www.faclon.com/job-description",
+        "Description":{
+            
+                        "rolesAndResponsibilities":[
+                            "Work on Node.js backend development with MongoDB, Redis, and Aerospike.",
+                            "Prepare scalable systems design and architecture.",
+                            "Learn and work on the hyperscale architectures and server applications.",
+                            "Build systems that perform, scale, can't be compromised, and manage themselves using DevOps.",
+                            "Stay passionate about building the best IoT product out there.",
+                            "Work with stakeholders inside and outside of Faclon to define problems and codify requirements."
+                        ],
+
+                        "requirements":[
+                            "Bachelors/Masters in CS",
+                            "Available for 4 Months Internship"
+                           
+
+                        ]
+                    }
+
+
+    },
+    {   
+        "id":"7",
+        "addedDate":"10/02/2025",
+        "companyName":"CYPWNG Software Technologies",
+        "position":"Multiple Position Available",
+        "positionType":"Internship",
+        "salary":"Not Available",
+        "workMode":"Remote",
+        "location":"Hi-Tech City Hyderabad(5Days Remote for Outside Hyderabad)",
+        "Timing":"Not Mentioned",
+        "experienceRequired":"Freshers Applicable",
+        "mustHaveSkills":["Laptop Mandatory","BE/BTech/BCA and MCA"],
+        "applyMode":"send resume at - hr@cypwng.com",
+        "website":"",
+        "Description":{
+            
+                        "rolesAndResponsibilities":[
+                            "Candidate Benefits:",
+                            "1. Joining Letter(On Enrollment)",
+                            "2. Company ID Card                            ",
+                            "3. Project Deliverables(KT, Abstract,Synopsis, Design  Flow, Sample Code,Project Screenshots)",
+                            "4. Internship Completion Certificate"
+                    ],
+
+                        "requirements":[
+"How To Apply:",
+"Immediately Send your resume at  or",
+"Contact at 9038593682: ",
+"hr@cypwng.com with Below ",
+"Details :",
+"1. Full Name :",
+"2. College Name :",
+"3. Roll Number :",
+"4. Contact Number :",
+"5. Email Id:",
+"Last Date to Apply: 11th February 2025"
+                    ]
+                    }
+
+
     }
 ]
