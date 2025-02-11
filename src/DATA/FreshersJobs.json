@@ -1,29 +1,35 @@
 [
+   
     {   
         "id":"1",
-        "addedDate":"03/03/2025",
-        "companyName":"konecranes",
-        "position":"Trainee, SAP Automation Testing",
+        "addedDate":"11/02/2025",
+        "companyName":"Synergy Technology Services",
+        "position":"Junior Software Developer",
         "positionType":"Full Time Permanent Position",
-        "salary":"As per industry standard",
+        "salary":"₹ 2,00,000 - 3,24,000",
         "workMode":"Full Time",
-        "location":"Pune",
+        "location":"Mumbai",
         "Timing":"",
         "experienceRequired":"Freshers Applicable",
-        "mustHaveSkills":[ "PLSQL", "MSSQL Database","CI/CD", "Jenkins or Bamboo" ],
+        "mustHaveSkills":[ 
+        ".NET",
+        "C++ Programming",
+        "CSS",
+        "HTML",
+        "Java",
+        "JavaScript",
+        "MySQL",
+        "Node.js",
+        "PHP",
+        "Python",
+        "ReactJS" ],
         "applyMode":"Company site",
-        "applyLink":"https://konecranes.careers/job/trainee-sap-automation-testing-in-pune-india-jid-468",
+        "applyLink":"https://www.stspl.com/career/current-openings/",
         "Description":{
             
                         "rolesAndResponsibilities": [
                             
-                            "Develop and execute automated test cases using Worksoft Certify/CAP, record the test results",
-                            "Primarily work with development teams and test/automate the features developed",
-                            "Analyse test results, and identify, document, and report root causes for test failures by working with the development team and the defect tracking system (JIRA)",
-                            "Maintaining and updating test documentation",
-                            "It is advantageous to proactively pursue learning opportunities in SAP alongside developing Test Automation skills.",
-                            "Exhibit Konecranes Core values and code of conduct into each action",
-                            "Furthermore, adherence to operational procedures compliant with audit requirements is imperative."
+                            "Work on the front end - HTML5, CSS3"
                             
 ],
 
@@ -32,15 +38,7 @@
 
 
                         "requirements":[
-                            "Experience in manual testing.",
-                            "Must have Knowledge about Worksoft Certify Test Automation tool and SAP ERP System",
-                            "Expertise in Test preparation, understanding business requirements, reporting bugs",
-                            "Basic exposure to web automation",
-                            "Good to have experience in CI/CD Jenkins or Bamboo etc.",
-                            "Good to have Knowledge of programming languages like Java, Javascript, HTML 5",
-                            "Good to have Knowledge of PLSQL, MSSQL Database",
-                            "Should be comfortable using basic MS-Office tools (Excel, Word, Outlook etc.)",
-                            " please submit your application by 28.02.2025"
+                            "Duration: 6 months Salary during probation: ₹10,000 - 15,000 /month (only for freshers)"
 ]
                     }
 

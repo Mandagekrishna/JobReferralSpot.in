@@ -49,7 +49,7 @@ export default function InternshipDetailsPage(){
             <Paper elevation={6} square={false} sx={{padding:'20px'}}>
             <Stack>
             <Typography variant='h6'> How to apply  - {currentInternship[0]['applyMode']}</Typography>
-            <Typography variant='h6'>Apply at link - <a href={currentInternship[0]['applyLink']}>click here</a> </Typography>
+            <Typography variant='h6'>Apply at link - <a href={currentInternship[0]['applyLink']} target="_blank">click here</a> </Typography>
             </Stack>
             </Paper>
             <Paper elevation={6} square={false} sx={{padding:'20px'}}>
