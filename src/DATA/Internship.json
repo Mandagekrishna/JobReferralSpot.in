@@ -1,43 +1,42 @@
 [
     {   
         "id":"1",
-        "addedDate":"03/02/2025",
-        "companyName":"CloudGemini Solutions",
-        "position":"Python Developer Internship",
-        "positionType":"Internship-Full Time - with job offer",
+        "addedDate":"11/02/2025",
+        "companyName":"Bynry Inc",
+        "position":"Data Engineer Intern",
+        "positionType":"Internship-Full Time",
         "salary":"Stipend Not mentioned",
-        "workMode":"Remote",
-        "location":"Remote",
+        "workMode":"Full Time",
+        "location":"Pune",
         "experienceRequired":"Freshers Applicable",
         "mustHaveSkills":[
-                                "Basic knowledge of Python programming"
+                                "MySQL", "PostgreSQL", "or SQL Server"
                         ],
         "applyMode":"Website",
-        "applyLink":"https://cloudgeminisolutions.zohorecruit.in/jobs/Careers/164230000000938758/Python-Developer-Internship-Remote?source=LinkedIn-Basic&embedsource=LinkedIn%2BLimited%2BListings",
+        "applyLink":"https://sites.google.com/bynry.io/becomingbynrian/current-job-opportunities/internship-opportunities/data-engineer-intern",
         "Description":{
             
                         "rolesAndResponsibilities":[
-                            "Assist in the design, development, and maintenance of Python-based applications and backend services.",
-                            "Write clean, efficient, and well-documented code, following best coding practices.",
-                            "Collaborate with senior developers to build, test, and deploy web applications and software.",
-                            "Participate in code reviews to maintain high-quality standards and ensure the delivery of robust applications.",
-                            "Work on debugging, troubleshooting, and optimizing Python code for improved performance and scalability.",
-                            "Participate in creating and maintaining APIs for internal and external systems.",
-                            "Learn and apply industry best practices in Python programming and software development.",
-                            "Test and deploy applications and systems, ensuring they are functional and user-friendly.",
-                            "Assist in maintaining version control and collaborate with team members using Git."
+"Collaborate with the data engineering team to design, develop, and maintain scalable data pipelines.",
+"Work with relational databases (e.g., MySQL, PostgreSQL, SQL Server) to ensure data integrity and accessibility.",
+"Gain hands-on experience with NoSQL databases (e.g., MongoDB, Cassandra, Redis) and spatial databases (e.g., PostGIS, Oracle Spatial).",
+"Utilize scripting languages (e.g., Python) for data manipulation and analysis.",
+"Assist in the creation of data visualizations using tools like Tableau or Power BI.",
+"Contribute to the development and optimization of ETL (Extract, Transform, Load) processes.",
+"Communicate effectively with team members to understand requirements and deliver results."
                         ],
 
                         "requirements":[
-                            "Recent graduate or student with a background in Computer Science, Information Technology, or a related field.",
-                            "Basic knowledge of Python programming, object-oriented programming (OOP), and data structures.",
-                            "Familiarity with web development frameworks like Django or Flask is a plus.",
-                            "Strong understanding of version control systems (e.g., Git).",
-                            "Ability to learn new programming languages and technologies quickly.",
-                            "Familiarity with databases (e.g., MySQL, PostgreSQL, or MongoDB) is an advantage.",
-                            "Strong problem-solving and analytical skills.",
-                            "Good communication skills and the ability to work collaboratively in a remote environment.",
-                            "A passion for coding and building innovative software solutions."
+"Currently pursuing or recently completed a degree in Computer Engineering or a related field.",
+"Strong understanding of relational databases such as MySQL, PostgreSQL, or SQL Server.",
+"Familiarity with NoSQL databases like MongoDB, Cassandra, or Redis.",
+"Knowledge of spatial databases such as PostGIS or Oracle Spatial.",
+"Proficiency in scripting languages (e.g., Python) for data manipulation and analysis.",
+"Basic knowledge of data visualization tools (e.g., Tableau, Power BI).",
+"Understanding of ETL processes.",
+"Strong analytical and critical thinking skills.",
+"Excellent communication and collaboration skills.",
+"Ability to work in a fast-paced, dynamic environment and adapt to changing priorities."
 
                         ]
                     }

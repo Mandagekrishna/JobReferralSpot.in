@@ -43,5 +43,47 @@
                     }
 
 
+    },
+    {   
+        "id":"2",
+        "addedDate":"11/02/2025",
+        "companyName":"Revalsys Technologies",
+        "position":"SQL Developer Fresher",
+        "positionType":"Full Time Permanent Position",
+        "salary":"salary Not Provided",
+        "workMode":"Full Time",
+        "location":"Hyderabad",
+        "Timing":"",
+        "experienceRequired":"Freshers Applicable",
+        "mustHaveSkills":[ 
+        "SQL Server" ],
+        "applyMode":"Company site",
+        "applyLink":"https://www.revalsys.com/sql-developer-fresher.html",
+        "Description":{
+            
+                        "rolesAndResponsibilities": [
+                            
+"Assist in the design, implementation, and maintenance of SQL Server databases.",
+"Write and optimize SQL queries to ensure efficient data retrieval and manipulation.",
+"Collaborate with senior database administrators and developers to understand and implement database requirements.",
+"Participate in database backup and recovery processes.",
+"Ensure data integrity and security by following best practices and company policies."
+                            
+],
+
+
+
+
+
+                        "requirements":[
+"Good knowledge of SQL Server and SQL programming.",
+"Strong analytical and problem-solving skills.",
+"Excellent communication and teamwork abilities.",
+"Eagerness to learn and adapt to new technologies and methodologies.",
+"Attention to detail and a commitment to delivering high-quality work."
+]
+                    }
+
+
     }
 ]

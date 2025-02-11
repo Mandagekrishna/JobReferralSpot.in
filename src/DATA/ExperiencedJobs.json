@@ -1,23 +1,44 @@
 [
     {   
         "id":"1",
-        "addedDate":"02/02/2025",
-        "companyName":"YASH TECHNOLOGIES",
-        "position":"Java AWS Architect",
+        "addedDate":"11/02/2025",
+        "companyName":"BYNRY Inc",
+        "position":"Senior QA Automation Engineer- Lead",
         "positionType":"Not Available",
         "salary":"Not Available",
-        "workMode":"Not Available",
-        "location":"Cyrstal IT Park, Indore & Magarpatta, Pune",
+        "workMode":"Full Time",
+        "location":"Pune, India (or willing to relocate to Pune)",
         "Timing":"",
-        "experienceRequired":"2-3 years experience",
-        "mustHaveSkills":["Apply Mode - Direct Referral","Java/J2EE","Microservices/Serverless Architecture","AWS"],
-        "applyMode":"Referral - Refer/Share Resume to -",
-        "website":"ShwetaHr.yashtechnology@gmail.com",
+        "experienceRequired":"At least 1 year of experience",
+        "mustHaveSkills":["Selenium"],
+        "applyMode":"Apply on below website",
+        "website":"https://sites.google.com/bynry.io/becomingbynrian/current-job-opportunities/qa-automation-engineer",
         "Description":{
             
-                        "rolesAndResponsibilities":[],
-                        "requirements":["Experience: 1.2-5+ years of software development experience with 2-3 years in an AWS Architect role.",
-                         "Hands-on experience with AWS solutions using IAM, S3, EC2, EKS, ECS, SQS, SNS, Lambda, Kinesis, AWS Batch, RDS, Dynamo DB and API Gateway"]
+                        "rolesAndResponsibilities":[
+"● Lead and manage the QA team, ensuring the delivery of high-quality products.",
+"● Design, develop, and implement comprehensive QA strategies and processes.",
+"● Conduct manual and automated testing, focusing on product quality and reliability.",
+"● Develop and maintain test frameworks using tools like Selenium, tailored for Angular, Django Python, and PostGres DB environments.",
+"● Collaborate with cross-functional teams, including development, product management, and customer support, to understand requirements and deliver effective testing solutions.",
+"● Identify, report, and track defects and ensure their resolution.",
+"● Mentor and guide QA team members, fostering a culture of continuous learning and improvement. ",
+"● Stay updated with the latest industry trends and best practices in QA and implement relevant advancements. ",
+"● Demonstrate strong people management skills, including performance evaluation, team building, and conflict resolution.",
+"● Communicate effectively with team members, stakeholders, and clients, providing clear and concise reports and updates on testing progress and results."
+                        ],
+                        "requirements":[
+"● Bachelor’s or Master’s degree in Computer Science or a related field. ",
+"● 3 to 5 years of experience in manual testing and automation. ",
+"● Proven experience in setting up QA processes from scratch. ",
+"● Demonstrated experience in executing various testing methodologies and scenarios. ",
+"● Hands-on experience with testing tools like Selenium and relevant frameworks for Angular, Django Python, and Postgres DB environments.",
+"● Strong attention to detail and critical thinking skills. ",
+"● Excellent logical reasoning and problem-solving abilities. ",
+"● Confidence and excellent communication skills. ",
+"● Passion for delivering high-quality products. ",
+"● Good people management skills, with experience in leading and mentoring QA teams. ",
+"● Sharp comprehension skills and the ability to understand complex systems and requirements."]
                     }
 
 

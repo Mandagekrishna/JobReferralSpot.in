@@ -47,7 +47,7 @@ export default function JobsDetailsPageMui(){
             <Paper elevation={6} square={false} sx={{padding:'20px'}}>
             <Stack>
             <Typography variant='h6'> How to apply</Typography>
-            <Typography variant='h6'>Apply Mode {currentJobs[0]['applyMode']} <a href={currentJobs[0]['website']}>{currentJobs[0]['website']}</a> </Typography>
+            <Typography variant='h6'>Apply Mode {currentJobs[0]['applyMode']} <a target="_blank" href={currentJobs[0]['website']}>{currentJobs[0]['website']}</a> </Typography>
             </Stack>
             </Paper>
             <Paper elevation={6} square={false} sx={{padding:'20px'}}>
