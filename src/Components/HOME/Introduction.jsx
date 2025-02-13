@@ -43,7 +43,7 @@ export default function Introduction()
         <Typography>For getting daily updates on Mobile join below telegram Channel</Typography>
     
         
-        <Button  sx={{width:300,height:50}}>
+        <Button  sx={{width:300,height:50, margin:'30px'}}>
         <a target="_blank" href='https://t.me/+MErXq1wdSSw4NzJl' style={{textDecoration:'none'}}>Join Telegram Channel  </a>
         <TelegramIcon sx={{ fontSize: 40 }} />
                 </Button>  
