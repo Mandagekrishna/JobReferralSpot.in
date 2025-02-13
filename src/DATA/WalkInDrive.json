@@ -1,28 +1,40 @@
 [
     {   
         "id":"1",
-        "addedDate":"05/01/2025",
-        "driveDate":"11/01/2025",
-        "companyName":"SPN GLOBE",
-        "position":" Technology Lead/Analyst",
+        "addedDate":"13/02/2025",
+        "driveDate":"15/02/2025 and 16/02/2025",
+        "companyName":"HCL TECH",
+        "position":"Java develope",
         "positionType":"Full Time Permanent Position",
         "salary":"",
-        "workMode":"Hybrid Work Culture",
-        "location":"Pune",
+        "workMode":"Work Mode - Not Mentioned",
+        "location":"Hyderabad (Willing to relocate Vijayawada)",
         "Timing":"",
-        "experienceRequired":"8-12 years experience",
-        "mustHaveSkills":["Apply Mode - Direct Referral"],
-        "applyMode":"Referral - Refer/Share Resume to -",
-        "applyAt":"https://career.infosys.com/jobdesc?jobReferenceCode=",
+        "experienceRequired":"1 year to 2 Years",
+        "mustHaveSkills":["Apply Mode - Walk In"],
+        "applyMode":"",
+        "applyAt":"Walk In ",
         "interviewLocation":"",
-        "jobLocation":"Any Where in India",
-        "address":"Bangalore: (Interview Location) Infosys BPM Limited., #785, Ground Floor Axis Sai Jyoti, 15th Cross 100 Feet Road, Sarakki, 1st Phase. J P Nagar, Bengaluru, Karnataka 560078. Landmark: Near Sindhoor Convention Centre",
-        "timing":"Interview Walkin Time: 10 AM to till 1:00 PM (Interview Timing 11:00 AM to 6:00 PM)",
+        "jobLocation":"Hyderabad - Vijayawada",
+        "address":"Hyderabad: H01B, BULIDING HI-TECH CITY 2,PHOENIX INFOCITY PVT.LTD, SEZ,SURVEY NO.30, 34, 35 & 38, MADHAPUR, HYDERABAD – 500081",
+        "timing":"Walk in Interview Date: 15th Feb 25 and 16th Feb 25( Face to face)",
        
         "Description":{
             
-                        "rolesAndResponsibilities":["NOTE: No parking facility is available at the location for the candidates. The candidate should stay at the office until 6 PM"],
-                        "requirements":""
+                        "rolesAndResponsibilities":[
+                            "Recruitment Process:",
+                            "1st Round - Hacker Rank Test (Face to Face)",
+                            "2nd Round- Technical (Virtual)",
+                            "Walk in Interview Date: 15th Feb 25 and 16th Feb 25( Face to face)",
+                            "Please find Walk in Interview locations details on below,",
+                            "Hyderabad: H01B, BULIDING HI-TECH CITY 2,PHOENIX INFOCITY PVT.LTD, SEZ,SURVEY NO.30, 34, 35 & 38, MADHAPUR, HYDERABAD – 500081"
+                            
+                                                    ],
+                        "requirements":[
+                            "** Very important Note: Below eligible candidates only can attend interview",
+                                "Graduation Pass out year: 2021/2022/2023/2024 only",
+                                "60% or above marks in 10th, 12th, and graduation ",
+                                "Notice period- Immediate/ 15days or 30 days."]
                     }
 
 

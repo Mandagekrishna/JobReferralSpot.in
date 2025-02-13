@@ -20,6 +20,7 @@ import Link from '@mui/material/Link';
 
 
 
+
 export default function JobsDetailsPageMui(){
 
     let [JobsData,updateData] = useState(Data);
