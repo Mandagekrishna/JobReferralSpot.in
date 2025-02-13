@@ -1,5 +1,8 @@
 import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
+import { Button } from '@mui/material';
+import TelegramIcon from '@mui/icons-material/Telegram';
+import SendIcon from '@mui/icons-material/Send';
 
 export default function Introduction()
 {
@@ -34,6 +37,16 @@ export default function Introduction()
             We are not responsible for any fees or charges that may be required to apply for any jobs or access specific services listed on this site. <br/>
             <br/>It is always important and your responsibility to review the job posting carefully and confirm any potential costs directly with the respective employer or <br/> job board before proceeding with your application.
         </Typography>
+        
+        <hr></hr>
+      
+        <Typography>For getting daily updates on Mobile join below telegram Channel</Typography>
+    
+        
+        <Button  sx={{width:300,height:50}}>
+        <a target="_blank" href='https://t.me/+MErXq1wdSSw4NzJl' style={{textDecoration:'none'}}>Join Telegram Channel  </a>
+        <TelegramIcon sx={{ fontSize: 40 }} />
+                </Button>  
 
     </Stack>
         
