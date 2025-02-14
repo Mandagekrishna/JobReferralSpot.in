@@ -272,6 +272,43 @@
                     }
 
 
+    },
+    {   
+        "id":"8",
+        "addedDate":"14/02/2025",
+        "companyName":"Synechron",
+        "position":"Senior Java Fullstack Developer",
+        "positionType":"Full Time",
+        "salary":"Not Available",
+        "workMode":"Hybrid",
+        "location":"Pune, Maharashtra",
+        "Timing":"Not Mentioned",
+        "experienceRequired":"7 years",
+        "mustHaveSkills":[" Java", "AngularJS"," HTML", "CSS", "JavaScript", "Linux", "PHP", "Apache"," MySQL", "Express.js", "Node.js"],
+        "applyMode":"send resume to - Yekata.shriwas@synechron.com",
+        "website":"",
+        "Description":{
+            
+                        "rolesAndResponsibilities":[
+                            "Architect and develop digital ecosystems, ensuring a seamless balance between client and server-side for a highly responsive user interface.",
+                            "Create new, dynamic front-end and back-end software products and applications that are dynamic and visually appealing.",
+                            "Develop entire architecture, responsive design, user interaction, and user experience.",
+                            "Collaborate with development teams and product managers to create innovative software solutions.",
+                            "Keep up with the latest advancements in programming languages and server apps.",
+                            "Offer suggestions for ongoing improvement and add or remove features as necessary.",
+                            "Design a plan for stability, scalability, performance optimization, and ongoing improvement."
+                    ],
+
+                        "requirements":[
+                            "Proficiency in Java, AngularJS, HTML, CSS, JavaScript, Linux, PHP, Apache, MySQL, Express.js, Node.js, and Angular.",
+"Knowledge of database management, APIs, version control systems, and third-party applications.",
+"Ability to develop entire architecture, responsive design, user interaction, and user experience.",
+"Experience with creating APIs based on the architecture of the production application.",
+"Familiarity with web architecture and design basics."
+                    ]
+                    }
+
+
     }
 
     

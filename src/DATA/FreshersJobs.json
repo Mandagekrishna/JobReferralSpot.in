@@ -85,5 +85,57 @@
                     }
 
 
+    },
+    {   
+        "id":"3",
+        "addedDate":"14/02/2025",
+        "companyName":"Aeries Technology",
+        "position":"Trainee - Web Developer",
+        "positionType":"Full Time Permanent Position",
+        "salary":"salary Not Provided",
+        "workMode":"Full Time",
+        "location":"Hyderabad",
+        "Timing":"",
+        "experienceRequired":"Fresher - 2 years",
+        "mustHaveSkills":[ 
+            "React.js", "Angular"],
+        "applyMode":"Company site",
+        "applyLink":"https://aeriestechnology.talentrecruit.com/Search/Jobs/?1997-Trainee--%20Web%20Developer",
+        "Description":{
+            
+                        "rolesAndResponsibilities": [
+                            
+                            "Design, develop, and maintain web applications using Python and web frameworks such as Django, Flask, or FastAPI.",
+                            "Write clean, maintainable, and efficient code to implement features and fix bugs.",
+                            "Work with front-end technologies such as HTML, CSS, JavaScript, and frameworks like React or Angular to ensure seamless integration between front-end and back-end.",
+                            "Collaborate with UI/UX designers to translate application wireframes and designs into functional web applications.",
+                            "Optimize web applications for speed and scalability.",
+                            "Implement secure and robust APIs to support web applications.",
+                            "Participate in code reviews to maintain high coding standards.",
+                            "Work closely with the QA team to ensure the quality and functionality of the application.",
+                            "Troubleshoot and debug issues that arise in the development or production environment.",
+                            "Stay up-to-date with emerging technologies and industry trends, continuously enhancing your skills"
+                            
+],
+
+
+
+
+
+                        "requirements":[
+"Strong proficiency in Python and web frameworks like Django, Flask, or FastAPI.",
+"Solid understanding of front-end technologies (HTML, CSS, JavaScript, AJAX, etc.).",
+"Experience with relational databases (e.g., MySQL, PostgreSQL) and ORM tools like SQLAlchemy or Django ORM.",
+"Familiarity with RESTful API development and integration.",
+"Strong knowledge of version control systems (e.g., Git).",
+"Experience with cloud platforms (e.g., AWS, Google Cloud, Azure) and deployment tools (e.g., Docker, Kubernetes) is a plus.",
+"Knowledge of web security best practices and application vulnerability mitigation.",
+"Good understanding of Agile methodologies and software development lifecycle (SDLC).",
+"Excellent problem-solving skills and ability to work independently and in a team.",
+"Strong communication skills and ability to collaborate with team members and stakeholders."
+]
+                    }
+
+
     }
 ]
