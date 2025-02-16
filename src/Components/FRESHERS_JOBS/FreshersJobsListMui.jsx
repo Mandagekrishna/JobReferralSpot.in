@@ -24,7 +24,7 @@ export default function FreshersJobsList()
     let [JobsData,updateData] = useState(Data);
     let [adProducts, updateProducts] = useState(adProduct);
 
-    console.log(JobsData);
+   // console.log(JobsData);
     return(
 
  
