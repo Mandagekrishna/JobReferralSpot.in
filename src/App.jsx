@@ -13,6 +13,7 @@ import WalkInDriveJobsListMui from './Components/WALK_IN_DRIVES/WalkInDriveJobsL
 import WalkInDriveJobsDetailsMui from './Components/WALK_IN_DRIVES/WalkInDriveJobsDetailsMui'
 import InternshipListMui from './Components/INTERNSHIPS/InternshipListMui'
 import InternshipDetailsPageMui from './Components/INTERNSHIPS/InternshipDetailsPageMui'
+import ResourcesHomePage from './Components/PROGRAMMING_RESOURCES/ResourcesHomePage'
 
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import {Analytics} from '@vercel/analytics/react';
@@ -81,6 +82,8 @@ function App() {
 
             <Route path='/ReferenceBooks' element={<ReferenceBooks/>}></Route>
             <Route path='/testpage' element={<TestPage/>}></Route>
+
+           <Route path='/ResourcesHomePage' element={<ResourcesHomePage></ResourcesHomePage>}></Route>
 
 
 

@@ -229,6 +229,18 @@ export default function MiniDrawer({updateDrawer}) {
             </NavLink> 
         </List>
 
+        <List>
+        <NavLink style={{textDecoration:'none', color:'inherit'}} to='/ResourcesHomePage'> 
+                <ListItem key='home'  disablePadding sx={{ display: 'block' }}>
+                
+                <ListItemButton>
+                <ListItemIcon><EventNoteIcon /> </ListItemIcon>
+                <ListItemText primary='Programming Resources'/>
+                </ListItemButton>        
+                </ListItem>
+            </NavLink> 
+        </List>
+
       </Drawer>
 
 
