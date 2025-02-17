@@ -44,7 +44,7 @@ export default function Introduction()
     
         
         <Button  sx={{width:300,height:50, margin:'30px'}}>
-        <a target="_blank" href='https://t.me/+MErXq1wdSSw4NzJl' style={{textDecoration:'none'}}>Join Telegram Channel  </a>
+        <a target="_blank" href='https://t.me/JobReferralSpot' style={{textDecoration:'none'}}>Join Telegram Channel  </a>
         <TelegramIcon sx={{ fontSize: 40 }} />
                 </Button>  
 
