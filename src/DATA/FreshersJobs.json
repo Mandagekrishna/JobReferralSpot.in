@@ -188,8 +188,8 @@
         "experienceRequired":"0.6 - 1 year",
         "mustHaveSkills":[ 
             "Java", "React.js"],
-        "applyMode":"Referral",
-        "applyLink":"Send resume to neha.sharma@innovationm.com.",
+        "applyMode":"Referral Send resume to neha.sharma@innovationm.com.",
+        "applyLink":"",
         "Description":{
             
                         "rolesAndResponsibilities": [
@@ -202,7 +202,7 @@
 
 
                         "requirements":[
-                            
+
                         ]
                     }
 
