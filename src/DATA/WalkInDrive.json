@@ -41,21 +41,36 @@
     },
 
     {   
-        "id":"",
-        "addedDate":"",
-        "companyName":"",
-        "position":"",
-        "positionType":"",
+        "id":"2",
+        "addedDate":"20/02/2025",
+        "driveDate":"1st March 2025",
+        "companyName":"LogicLoop",
+        "position":"Java developer",
+        "positionType":"Full Time Permanent Position",
         "salary":"",
-        "workMode":"",
+        "workMode":"Work Mode - Not Mentioned",
+        "location":"Mumbai Maharashtra",
         "Timing":"",
-        "experienceRequired":"",
-        "mustHaveSkills":"",
+        "experienceRequired":"Freshers",
+        "mustHaveSkills":["Apply Mode - Walk In"],
         "applyMode":"",
+        "applyAt":"Walk In ",
+        "interviewLocation":"",
+        "jobLocation":"Mumbai",
+        "address":"3rd Floor, Premier IT Park,Rd Number 11, Marol MIDC Industrial Estate, Andheri East, Mumbai, Maharashtra 400069",
+        "timing":"Walk in Interview Date: 1st March 2025 11am to 6pm ",
+       
         "Description":{
-            "rolesAndResponsibilities":"",
-            "requirements":""
-        }
+            
+                        "rolesAndResponsibilities":[
+                            "Are you a 2024 Graduate (BE/B-Tech/ BSc/ BCA) with a passion for Java and ready to kickstart your career? Here’s your golden opportunity to join an exciting tech team!"
+                            
+                                                    ],
+                        "requirements":[
+                            "Freshers with Java expertise and a hunger to learn",
+"BE/B-Tech/BSc/BCA (#2024 Passout)",
+ "Excellent communication skills – we value clear, effective, and onfident communication"]
+                    }
 
 
     }

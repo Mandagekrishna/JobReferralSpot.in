@@ -281,5 +281,55 @@
                     }
 
 
+    },
+    {   
+        "id":"8",
+        "addedDate":"20/02/2025",
+        "companyName":"MindShift Technologies",
+        "position":"Internship",
+        "positionType":"Intern",
+        "salary":"salary Not Provided",
+        "workMode":"Full Time",
+        "location":"",
+        "Timing":"",
+        "experienceRequired":"Fresher",
+        "mustHaveSkills":[ 
+            "Java", "C++", "Python", "Node.js"],
+        "applyMode":"Mail",
+        "applyLink":"Directly send your resume to mindshifttechnologies.hr@gmail.com !",
+        "Description":{
+            
+                        "rolesAndResponsibilities": [
+                            
+                            "We are hiring for :",
+"1. Java Developer Intern",
+"2. Web Developer Intern",
+"3. C++ Developer Intern",
+"4. C Developer Intern",
+"5. Python Developer Intern ",
+"6. UI/UX Designer Intern ",
+"7. Full Stack Developer Intern ",
+"8. Data Analyst Intern ",
+"9. PHP Developer Intern ",
+"10. AI / ML",
+"11. Devops Intern",
+"12. QA Tester",
+"13. HR intern",
+"14. Cyber Security ",
+"15. Android Developer Intern ",
+"16. Game Development using JS",
+                            
+],
+
+
+
+
+
+                        "requirements":[
+
+]
+                    }
+
+
     }
 ]

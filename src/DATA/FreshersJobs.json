@@ -137,5 +137,75 @@
                     }
 
 
+    },
+    {   
+        "id":"4",
+        "addedDate":"20/02/2025",
+        "companyName":"IBM",
+        "position":"Associate System Engineer",
+        "positionType":"Full Time Permanent Position",
+        "salary":"salary Not Provided",
+        "workMode":"Full Time",
+        "location":"all over India",
+        "Timing":"",
+        "experienceRequired":"Fresher",
+        "mustHaveSkills":[ 
+            "Java", "C++", "Python", "Node.js"],
+        "applyMode":"Company site",
+        "applyLink":"https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=7789&source=WEB_Search_NA&utm_source=pocket_saves",
+        "Description":{
+            
+                        "rolesAndResponsibilities": [
+                            
+                            "As a Software Developer you'll participate in many aspects of the software development lifecycle, such as design, code implementation, testing, and support. You will create software that enables your clients' hybrid-cloud and AI journeys. You'll have the opportunity to work with the latest technologies, ensuring the applications delivered are high performing, highly available, responsive, and maintainable. Your primary responsibilities include: Analytical Problem-Solving and Solution Enhancement: Analyze, validate and propose improvements to existing failures, with the support of the architect and technical leader. Comprehensive Engagement Across Process Phases: Involvement in every step of the process, from design, development, testing release changes and troubleshoot where necessary, providing a great customer service. Strategic Stakeholder Engagement and Innovative Coding Solutions: Drive key discussions with your stakeholders and analyze the current landscape for opportunities to operate and code creative solutions."
+                            
+],
+
+
+
+
+
+                        "requirements":[
+"Programming (preferably in Java, C++, Python, Node.js) & Software Development Life Cycle Concepts",
+"This is an entry level Off-Campus hiring position and the candidates must have completed their education and obtained their degree.",
+"Course Completion Year should be 2024 Only.",
+"BE/BTech/ME/MTech/Dual Degree/MSc/MCA in CS/ IT OR other Semi IT/ circuit branches with 6.0 CGPA/60%. Calculation of qualifying marks=Sum of marks obtained divided by Sum total of maximum marks obtainable. All subjects will be considered including elective/optional subjects."
+]
+                    }
+
+
+    },
+    {   
+        "id":"5",
+        "addedDate":"20/02/2025",
+        "companyName":"InnovationM",
+        "position":"Associate System Engineer",
+        "positionType":"Full Time Permanent Position",
+        "salary":"salary Not Provided",
+        "workMode":"Full Time",
+        "location":"all over India",
+        "Timing":"",
+        "experienceRequired":"0.6 - 1 year",
+        "mustHaveSkills":[ 
+            "Java", "React.js"],
+        "applyMode":"Referral",
+        "applyLink":"Send resume to neha.sharma@innovationm.com.",
+        "Description":{
+            
+                        "rolesAndResponsibilities": [
+                            
+                            
+],
+
+
+
+
+
+                        "requirements":[
+                            
+                        ]
+                    }
+
+
     }
 ]
