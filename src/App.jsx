@@ -21,6 +21,8 @@ import NavBarMui from './Components/NavBarMui'
 import { ListItem,Box  } from '@mui/material'
 import ReferenceBooks from './Components/GATE/ReferenceBooks'
 import TestPage from './Components/TestPage'
+import ResourcesPage from './Components/PROGRAMMING_RESOURCES/ResourcesHomePage'
+import ResourceDetailsPage from './Components/PROGRAMMING_RESOURCES/ResourcesDetailsPage'
 
 // import { Analytics } from '@vercel/analytics/next'
 
@@ -83,7 +85,10 @@ function App() {
             <Route path='/ReferenceBooks' element={<ReferenceBooks/>}></Route>
             <Route path='/testpage' element={<TestPage/>}></Route>
 
-           <Route path='/ResourcesHomePage' element={<ResourcesHomePage></ResourcesHomePage>}></Route>
+           {/* <Route path='/ResourcesHomePage' element={<ResourcesHomePage></ResourcesHomePage>}></Route> */}
+           <Route path='/ResourcesHomePage' element={<ResourcesPage></ResourcesPage>}></Route>
+           <Route path='/ResourceDetails/:id' element ={<ResourceDetailsPage></ResourceDetailsPage>}></Route>
+
 
 
 

@@ -29,42 +29,44 @@ export default function ResourcesHomePage(){
     </Grid>
 </Grid>
 
-<Grid container >
+<Grid container>
 
-<Grid container direction="row" size={{xs:8,md:8}} columns={7}  offset={0.3} sx={{marginRight:'7%',justifyContent: "space-evenly", marginTop:'5%'}}  >
+<Grid container alignItems="flex-start"  size={{xs:8,md:8}} columns={7} offset={0.3} sx={{marginRight:'7%',justifyContent: "space-evenly", marginTop:'5%', maxHeight:'auto', height:'500px'}}  >
                 
-{ResourceDetails.map(element=>{return(<>
+{ResourceDetails.map(element=>{return(
         
-        <Grid size={2} >
-
+        <Grid size={{xs:3,md:2}} margin='auto' marginBottom='60px'>
+         
         <NavLink to={`/ResourceDetails/${element.id}`}  style={{underline:'none',textDecoration:'none', color:'inherit'}}>
          
                
 
-            <Card sx={{justifyContent:'center'}}>
-          <CardActionArea     
-            sx={{
-              height: '100%',
-             
-            //   justifySelf:'center',background: 'linear-gradient(45deg,rgb(107, 129, 254) 30%,rgb(83, 163, 255) 90%)',
-              justifySelf:'center',background: 'linear-gradient(45deg,#5c6bc0 30%,#9fa8da 90%)',
-
+          <Card sx={{justifyContent:'center'}}>
+            <CardActionArea     
+              sx={{
               
-                 }}
-          >
-            <CardContent sx={{ height: '100%',justifySelf:'center' }}>
-              <Typography variant="h3" component="div" sx={{underline:'none',textDecoration:'none', color:'inherit'}}>
-                {   element['Name']}
-              </Typography>
-              {/* <Typography variant="body2" color="text.secondary"  sx={{underline:'none',textDecoration:'none', color:'text'}}>
-                Click to Visit
-              </Typography> */}
-            </CardContent>
+              //   justifySelf:'center',background: 'linear-gradient(45deg,rgb(107, 129, 254) 30%,rgb(83, 163, 255) 90%)',
+                justifySelf:'center',background: 'linear-gradient(45deg,#5c6bc0 30%,#9fa8da 90%)',
+              
+                
+                  }}
+            >
+              <CardContent sx={{justifySelf:'center',  }}>
+                <Typography variant="h3" component="div" sx={{underline:'none',textDecoration:'none', color:'inherit'}}>
+                  {   element['Name']}
+                </Typography>
+                {/* <Typography variant="body2" color="text.secondary"  sx={{underline:'none',textDecoration:'none', color:'text'}}>
+                  Click to Visit
+                </Typography> */}
+              </CardContent>
           </CardActionArea>
         </Card>
 
+ 
+ 
  </NavLink>
-</Grid></>)})}
+
+</Grid>)})}
             </Grid>
 
 
