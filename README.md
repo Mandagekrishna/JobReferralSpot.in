@@ -12,6 +12,7 @@ Currently, two official plugins are available:
 React-router-dom
 npm install @mui/material @emotion/react @emotion/styled
 npm install @vercel/analytics
+npm install react-markdown
 
 # Colors
 referred - INDIGO varient 
