@@ -1,4 +1,4 @@
-# React
+# REACT
 ## _The Last Markdown Editor, Ever_
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
@@ -11,9 +11,22 @@ AngularJS-powered HTML5 Markdown editor.
 - Type some Markdown on the left
 - See HTML in the right
 - ✨Magic ✨
+***
 
-## Features
+## Syllabus
 
+Below is the syllabus
+
+
+|Beginner|Intermediate|Advance|
+|:-----:|:-------:|:-------:|
+| hooks  |  Portals |Reconciliation|
+
+.
+***
+## Hooks
+
+***
 - Import a HTML file and watch it magically convert to Markdown
 - Drag and drop images (requires your Dropbox account be linked)
 - Import and save files from GitHub, Dropbox, Google Drive and One Drive
@@ -37,7 +50,6 @@ for Markdown's syntax, type some text into the left window and
 watch the results in the right.
 
 ## Tech
-
 Dillinger uses a number of open source projects to work properly:
 
 - [AngularJS] - HTML enhanced for web apps!
@@ -50,6 +62,8 @@ Dillinger uses a number of open source projects to work properly:
 - [Breakdance](https://breakdance.github.io/breakdance/) - HTML
 to Markdown converter
 - [jQuery] - duh
+- [google] - google
+- 
 
 And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
