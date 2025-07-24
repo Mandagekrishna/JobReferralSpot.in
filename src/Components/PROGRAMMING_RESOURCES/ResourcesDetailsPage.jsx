@@ -12,6 +12,8 @@ import Typography from '@mui/material/Typography';
 import Link from '@mui/material/Link';
 import CardActionArea from '@mui/material/CardActionArea';
 import { Card, Paper } from '@mui/material';
+import remarkGfm from 'remark-gfm';
+import rehypeSlug from 'rehype-slug';
 
 
 export default function ReactResources(){
@@ -30,9 +32,7 @@ export default function ReactResources(){
 
 <Grid container columns={8} marginLeft={10}>
     <Grid size={5.5} marginRight={6}>
-        <h1>my selected id {id}</h1>
-        <ReactMarkdown>{displaymdFile}</ReactMarkdown>
-       
+        <ReactMarkdown  remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeSlug]}>{displaymdFile}</ReactMarkdown>       
     </Grid>
 
      <Grid container size={{xs:2,md:2}} sx={{backgroundColor:'lightblue'}}> 
