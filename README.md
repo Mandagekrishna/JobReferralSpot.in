@@ -13,6 +13,9 @@ React-router-dom
 npm install @mui/material @emotion/react @emotion/styled
 npm install @vercel/analytics
 npm install react-markdown remark-gfm remark-slug
+npm install @mdx-js/react @mdx-js/loader
+npm install vite-plugin-mdx    
+npm install @mdx-js/rollup - https://mdxjs.com/packages/rollup/
 
 # Colors
 referred - INDIGO varient 
@@ -34,3 +37,10 @@ add section -OTHER RESOURCES TO LOOK FOR in home page where we add
     - Notes (mysql notes, reactjs notes, React Router notes)
 add sidebar to navigate through above resources easily
 add section for donation
+
+
+# Working with mdx
+srcs - 
+
+https://mdxjs.com/docs/getting-started/
+https://mdxjs.com/packages/rollup/

@@ -12,8 +12,10 @@ import Typography from '@mui/material/Typography';
 import Link from '@mui/material/Link';
 import CardActionArea from '@mui/material/CardActionArea';
 import { Card, Paper } from '@mui/material';
-import remarkGfm from 'remark-gfm';
-import rehypeSlug from 'rehype-slug';
+// import remarkGfm from 'remark-gfm';
+// import rehypeSlug from 'rehype-slug';
+import Data from '../../DATA/ReactResources.mdx'
+import {MDXProvider} from '@mdx-js/react'
 
 
 export default function ReactResources(){
@@ -25,14 +27,15 @@ export default function ReactResources(){
     let currentDetails = ResourcesList.filter(element => element.id === id);
     let fileName = currentDetails[0].fileName
 
-    useEffect(()=>  {import (`../../DATA/${fileName}.md?raw`).then(result=>updatemdFile(result.default))},[]);   //from chatgpt
+    // useEffect(()=>  {import (`../../DATA/${fileName}.md?raw`).then(result=>updatemdFile(result.default))},[]);   //from chatgpt
   
 
     return(<>
 
 <Grid container columns={8} marginLeft={10}>
     <Grid size={5.5} marginRight={6}>
-        <ReactMarkdown  remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeSlug]}>{displaymdFile}</ReactMarkdown>       
+        {/* <ReactMarkdown  remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeSlug]}>{displaymdFile}</ReactMarkdown>        */}
+        <MDXProvider><Data></Data></MDXProvider>
     </Grid>
 
      <Grid container size={{xs:2,md:2}} sx={{backgroundColor:'lightblue'}}> 
