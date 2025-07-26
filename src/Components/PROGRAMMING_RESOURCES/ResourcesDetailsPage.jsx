@@ -12,9 +12,9 @@ import Typography from '@mui/material/Typography';
 import Link from '@mui/material/Link';
 import CardActionArea from '@mui/material/CardActionArea';
 import { Card, colors, Paper, Stack } from '@mui/material';
-// import remarkGfm from 'remark-gfm';
-// import rehypeSlug from 'rehype-slug';
-import {MDXProvider} from '@mdx-js/react';
+import remarkGfm from 'remark-gfm';
+import rehypeSlug from 'rehype-slug';
+// import {MDXProvider} from '@mdx-js/react';
 
 
 export default function ReactResources(){
@@ -36,7 +36,9 @@ useEffect(()=>{
                 
                 if(fileName=='') return 
                 else{
-                const mdxContent = await import (`../../DATA/${fileName}.mdx`)//from chatgpt
+                // const mdxContent = await import (`../../DATA/${fileName}.mdx`)//from chatgpt  for mdx
+                const mdxContent = await import (`../../DATA/${fileName}.md?raw`)//from chatgpt  for md
+
                 // updatemdFile(mdxContent.default); // this will not work because state will use the stale state. If there are multiple state updates in sequence, React may use stale data or incorrectly batch the updates, resulting in issues with component rendering.(chatgpt)
                 updatemdFile(()=>mdxContent.default)
                 // console.log(mdxContent)
@@ -73,8 +75,8 @@ useEffect(()=>{
             <Stack>{syllabus.advance.map(topics => {return(<><p>{topics}</p></>)})}</Stack>
         </Grid>
         <Grid className = 'details' size={8}>
-        {/* <ReactMarkdown  remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeSlug]}>{displaymdFile}</ReactMarkdown>        */}
-        {fileName==''?<h1 style={{ color: 'red' }}>Details don't exist</h1>:<MDXProvider>{DisplaymdFile?<DisplaymdFile/>:<p>loading...</p>}</MDXProvider>}
+        {fileName==''?<h1 style={{ color: 'red' }}>Details don't exist</h1>:<ReactMarkdown  remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeSlug]}>{DisplaymdFile}</ReactMarkdown>}    
+        {/* {fileName==''?<h1 style={{ color: 'red' }}>Details don't exist</h1>:<MDXProvider>{DisplaymdFile?<DisplaymdFile/>:<p>loading...</p>}</MDXProvider>} */}
         </Grid>
 
     </Grid>
