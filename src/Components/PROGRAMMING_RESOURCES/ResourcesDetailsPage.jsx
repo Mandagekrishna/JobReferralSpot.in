@@ -60,7 +60,7 @@ useEffect(()=>{
 
 <Grid container  className='topcontainer' columns={8} size={{xs:12,sm:12,md:8}} marginLeft={{xs:3,sm:9,md:10}}>
     
-    <Grid container direction='row' size={{xs:6,sm:4,md:5.5}} marginRight={{xs:1,sm:4,md:6}} sx={{justifyContent: "space-evenly",minheight:'1000px'}}>
+    <Grid container direction='row' size={{xs:8,sm:4,md:5.5}} marginRight={{xs:1,sm:4,md:6}} sx={{justifyContent: "space-evenly",minheight:'1000px'}}>
     
         <Grid size={{xs:7,sm:10,md:2}}>
             <h2>Beginner</h2>
@@ -70,7 +70,7 @@ useEffect(()=>{
             <h2>Intermediate</h2>
             <Stack>{syllabus.intermediate.map(topics => {return(<><p>{topics}</p></>)})}</Stack>
         </Grid>
-        <Grid size={{xs:7,sm:10,md:2}}>
+        <Grid size={{xs:8,sm:10,md:2}}>
             <h2>Advance</h2>
             <Stack size={{xs:8,sm:5,md:2}}>{syllabus.advance.map(topics => {return(<><p>{topics}</p></>)})}</Stack>
         </Grid>
@@ -81,7 +81,7 @@ useEffect(()=>{
 
     </Grid>
     
-    <Grid container  size={{xs:1,sm:3,md:2}} sx={{display: { xs: 'inline-block', sm: 'block' }}}> 
+    <Grid container  size={{xs:3,sm:3,md:2}} sx={{display: { xs: 'inline-block', sm: 'block' }}}> 
         <Paper elevation={4}>
             <Grid>
                {adProducts.map(adProductElement => { 
