@@ -58,30 +58,30 @@ useEffect(()=>{
     return(<>
 <h1 style={{marginLeft:'20px'}}>{currentDetails[0].Name}</h1>
 
-<Grid container columns={8} marginLeft={10}>
+<Grid container columns={8} size={{xs:12,sm:9,md:8}} marginLeft={{xs:3,sm:9,md:10}}>
     
-    <Grid container direction='row' size={5.5} marginRight={6} sx={{justifyContent: "space-evenly",height:'1000px'}}>
+    <Grid container direction='row' size={{xs:12,md:5.5}} marginRight={6} sx={{justifyContent: "space-evenly",height:'1000px'}}>
     
-        <Grid size={2}>
+        <Grid size={{xs:8,sm:5,md:2}}>
             <h2>Beginner</h2>
             <Stack>{syllabus.basics.map(topics => {return(<><p>{topics}</p></>)})}</Stack>
         </Grid>
-        <Grid size={2}>
+        <Grid size={{xs:8,sm:5,md:2}}>
             <h2>Intermediate</h2>
             <Stack>{syllabus.intermediate.map(topics => {return(<><p>{topics}</p></>)})}</Stack>
         </Grid>
-        <Grid size={2}>
+        <Grid size={{xs:8,sm:5,md:2}}>
             <h2>Advance</h2>
-            <Stack>{syllabus.advance.map(topics => {return(<><p>{topics}</p></>)})}</Stack>
+            <Stack size={{xs:8,sm:5,md:2}}>{syllabus.advance.map(topics => {return(<><p>{topics}</p></>)})}</Stack>
         </Grid>
-        <Grid className = 'details' size={8}>
+        <Grid className = 'details' size={{xs:12,sm:5,md:8}}>
         {fileName==''?<h1 style={{ color: 'red' }}>Details are in Process</h1>:<ReactMarkdown  remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeSlug]}>{DisplaymdFile}</ReactMarkdown>}    
         {/* {fileName==''?<h1 style={{ color: 'red' }}>Details don't exist</h1>:<MDXProvider>{DisplaymdFile?<DisplaymdFile/>:<p>loading...</p>}</MDXProvider>} */}
         </Grid>
 
     </Grid>
     
-    <Grid container size={{xs:2,md:2}} sx={{backgroundColor:'lightblue'}}> 
+    <Grid container  size={{xs:1,md:2}} sx={{backgroundColor:'lightblue',display: { xs: 'none', sm: 'block' }}}> 
         <Paper elevation={4}>
             <Grid>
                {adProducts.map(adProductElement => { 

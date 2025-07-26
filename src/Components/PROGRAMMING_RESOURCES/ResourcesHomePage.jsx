@@ -34,7 +34,7 @@ export default function ResourcesHomePage(){
     {ResourceDetails.map(element=>{
         
         return(        
-            <Grid size={{xs:3,md:2.1}}   marginBottom='60px' justifyContent="space-between">         
+            <Grid size={{xs:5,md:2.1}}   marginBottom='60px' justifyContent="space-between">         
               <NavLink to={`/ResourceDetails/${element.id}`}  style={{underline:'none',textDecoration:'none', color:'inherit'}}>
                 <Card sx={{justifyContent:'center'}}>
                   <CardActionArea  sx={{              
@@ -43,7 +43,7 @@ export default function ResourcesHomePage(){
                                     }} >
                     <CardContent sx={{justifySelf:'center',  }}>
                      
-                      <Typography variant="h3" component="div" sx={{underline:'none',textDecoration:'none', color:'inherit'}}>{   element['Name']}</Typography>
+                      <Typography variant={{xs:"h3",md:"h3"}} component="div" sx={{underline:'none',textDecoration:'none', color:'inherit'}}>{   element['Name']}</Typography>
                      
                       {/* <Typography variant="body2" color="text.secondary"  sx={{underline:'none',textDecoration:'none', color:'text'}}>
                         Click to Visit
