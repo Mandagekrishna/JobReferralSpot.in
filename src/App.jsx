@@ -68,7 +68,7 @@ function App() {
 
       <Routes>
     
-            <Route path='/' element={<Home></Home>}></Route>
+            <Route path='/' element={<ResourcesPage></ResourcesPage>}></Route>
             <Route path='/Home' element={<Home></Home>}></Route>
             <Route path='/Internships' element={<InternshipListMui></InternshipListMui>}></Route>
             <Route path='/InternshipDetailsPage/:id' element={<InternshipDetailsPageMui></InternshipDetailsPageMui>}></Route>
