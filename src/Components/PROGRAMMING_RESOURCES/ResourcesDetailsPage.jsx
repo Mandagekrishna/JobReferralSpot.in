@@ -11,7 +11,7 @@ import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import Link from '@mui/material/Link';
 import CardActionArea from '@mui/material/CardActionArea';
-import { Card, Paper } from '@mui/material';
+import { Card, colors, Paper, Stack } from '@mui/material';
 // import remarkGfm from 'remark-gfm';
 // import rehypeSlug from 'rehype-slug';
 import {MDXProvider} from '@mdx-js/react';
@@ -25,39 +25,61 @@ export default function ReactResources(){
 
     let currentDetails = ResourcesList.filter(element => element.id === id);
     let fileName = currentDetails[0].fileName
+    let syllabus = currentDetails[0].syllabus
 
 useEffect(()=>{
     
     const loadMdx = async function()
     {
-    try{    
-    {
-        const mdxContent = await import (`../../DATA/${fileName}.mdx`)  //from chatgpt
-        // updatemdFile(mdxContent.default); // this will not work because state will use the stale state. If there are multiple state updates in sequence, React may use stale data or incorrectly batch the updates, resulting in issues with component rendering.(chatgpt)
-        updatemdFile(()=>mdxContent.default);
-        console.log(mdxContent)
+        try{    
+            
+                
+                if(fileName=='') return 
+                else{
+                const mdxContent = await import (`../../DATA/${fileName}.mdx`)//from chatgpt
+                // updatemdFile(mdxContent.default); // this will not work because state will use the stale state. If there are multiple state updates in sequence, React may use stale data or incorrectly batch the updates, resulting in issues with component rendering.(chatgpt)
+                updatemdFile(()=>mdxContent.default)
+                // console.log(mdxContent)
+                }
+            
+            }
         
+        catch(error){
+            console.log(error)
+        }
     }
- }
-    catch(error){
-        console.log(error)
-    }
-}
 
-   loadMdx()},[]);
+   loadMdx()
+},[]);
   
 
     return(<>
 
 <Grid container columns={8} marginLeft={10}>
-    <Grid size={5.5} marginRight={6}>
+    
+
+    <Grid container direction='row' size={5.5} marginRight={6} sx={{justifyContent: "space-evenly",height:'1000px'}}>
+    
+        <Grid size={2}>
+            <h2>Beginner</h2>
+            <Stack>{syllabus.basics.map(topics => {return(<><p>{topics}</p></>)})}</Stack>
+        </Grid>
+        <Grid size={2}>
+            <h2>Intermediate</h2>
+            <Stack>{syllabus.intermediate.map(topics => {return(<><p>{topics}</p></>)})}</Stack>
+        </Grid>
+        <Grid size={2}>
+            <h2>Advance</h2>
+            <Stack>{syllabus.advance.map(topics => {return(<><p>{topics}</p></>)})}</Stack>
+        </Grid>
+        <Grid className = 'details' size={8}>
         {/* <ReactMarkdown  remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeSlug]}>{displaymdFile}</ReactMarkdown>        */}
-        <MDXProvider>{DisplaymdFile?<DisplaymdFile/>:<p>loading...</p>}</MDXProvider>
-       
+        {fileName==''?<h1 style={{ color: 'red' }}>Details don't exist</h1>:<MDXProvider>{DisplaymdFile?<DisplaymdFile/>:<p>loading...</p>}</MDXProvider>}
+        </Grid>
 
     </Grid>
-
-     <Grid container size={{xs:2,md:2}} sx={{backgroundColor:'lightblue'}}> 
+    
+    <Grid container size={{xs:2,md:2}} sx={{backgroundColor:'lightblue'}}> 
         <Paper elevation={4}>
             <Grid>
                {adProducts.map(adProductElement => { 
@@ -98,10 +120,10 @@ useEffect(()=>{
             </Link> </Button>)
                }
             )
-        }
-                </Grid>
+            }
+           </Grid>
                 
-    </Paper>
+        </Paper>
     </Grid>
        
     </Grid>

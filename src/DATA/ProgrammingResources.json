@@ -1,20 +1,23 @@
 [
+   
     {
         "id":"1",
-        "Name":"C++"
+        "Name":"React",
+        "fileName":"ReactResources",
+        "syllabus":{
+            "basics":["components","Props","Fragments","JSX","Events and Event Handlers","State","Hooks","Styling React","Life Cycle Methods","Forms in React"],
+            "intermediate":["Custom Hooks","Fetching Data","Routing","Context","React Portals","Virtual DOM"],
+            "advance":["DOM Manipulation","Higher Order Components","State Management Libraries (Redux)","Performance Optimization"]}
     },
     {
         "id":"2",
-        "Name":"SQL"
-    },
-    {
-        "id":"3",
-        "Name":"MERN"
-    },
-    {
-        "id":"4",
-        "Name":"React",
-        "fileName":"ReactResources"
+        "Name":"JavaScript",
+        "fileName":"JavaScriptResources",
+        "syllabus":{
+            "basics":["Introduction","Data Types","let vs const vs var","Operators","Conditionals","Loops","Functions","String and String Methods","Array and Methods","Objects","Comments"],
+            "intermediate":["Arrow Functions", "Destructuring","Spread and Rest Operators","callback Functions","Closures", "Scopes","Hoisting", "Array Methods","Object Methods"],
+            "advance":["Promises","Asynchronous Javascript","Currying","Immediately Invoked Function Expression(IIFE)","call, apply, bind", "this operator"]
+        }
     }
     
     

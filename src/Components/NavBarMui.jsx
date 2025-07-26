@@ -163,6 +163,9 @@ export default function MiniDrawer({updateDrawer}) {
         <Divider />
        
         <List>
+          {/* uncomment this to make HOME, FRESHERS, WALKIN DRIVE page visible
+            
+            
             <NavLink style={{textDecoration:'none', color:'inherit'}} to='/Home'> 
                 <ListItem key='home'  disablePadding sx={{ display: 'block' }}>
                 
@@ -171,8 +174,7 @@ export default function MiniDrawer({updateDrawer}) {
                 <ListItemText primary='Home'/>
                 </ListItemButton>        
                 </ListItem>
-            </NavLink> 
-
+            </NavLink>  
             <NavLink style={{textDecoration:'none', color:'inherit'}} to='/Internships'> 
                 <ListItem key='home'  disablePadding sx={{ display: 'block' }}>
                 
@@ -211,7 +213,7 @@ export default function MiniDrawer({updateDrawer}) {
                 <ListItemText primary='Walk-In Drives'/>
                 </ListItemButton>        
                 </ListItem>
-            </NavLink> 
+            </NavLink>  */}
 
            
         </List>

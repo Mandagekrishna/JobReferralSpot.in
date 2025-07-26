@@ -30,11 +30,11 @@ export default function ResourcesHomePage(){
 </Grid>
 
 <Grid container>  
-  <Grid container alignItems="flex-start"  size={{xs:8,md:8}} columns={7} offset={0.3} sx={{marginRight:'7%',justifyContent: "space-evenly", marginTop:'5%', maxHeight:'auto', height:'500px'}}>
+  <Grid container direction='row'  size={{xs:8,md:8}} columns={8} offset={0.3} sx={{marginRight:'7%',justifyContent: "space-evenly", marginTop:'5%',alignItems:"flex-start", maxHeight:'auto', height:'200px'}}>
     {ResourceDetails.map(element=>{
         
         return(        
-            <Grid size={{xs:3,md:2}} margin='auto' marginBottom='60px'>         
+            <Grid size={{xs:3,md:2}}   marginBottom='60px' justifyContent="space-between">         
               <NavLink to={`/ResourceDetails/${element.id}`}  style={{underline:'none',textDecoration:'none', color:'inherit'}}>
                 <Card sx={{justifyContent:'center'}}>
                   <CardActionArea  sx={{              
@@ -42,7 +42,9 @@ export default function ResourcesHomePage(){
                                         justifySelf:'center',background: 'linear-gradient(45deg,#5c6bc0 30%,#9fa8da 90%)',
                                     }} >
                     <CardContent sx={{justifySelf:'center',  }}>
+                     
                       <Typography variant="h3" component="div" sx={{underline:'none',textDecoration:'none', color:'inherit'}}>{   element['Name']}</Typography>
+                     
                       {/* <Typography variant="body2" color="text.secondary"  sx={{underline:'none',textDecoration:'none', color:'text'}}>
                         Click to Visit
                       </Typography> */}
