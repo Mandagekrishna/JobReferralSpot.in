@@ -1,28 +1,28 @@
-<br/>
+# JavaScript
 ****
-**Official Docs** <br/>
+**Official Docs** 
 
-- [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  &nbsp; [Read] [Free]  <br/>
+- [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  &nbsp; [Read] [Free]  
 
 
 
-<br/>
-**Don\'t miss**<br/>
+
+**Don\'t miss**
 
 - [https://javascript.info/](https://javascript.info/)  &nbsp; [Read] [Free]
-<br/>
 
 
 
-**Getting Started** <br/>
+
+**Getting Started** 
 
 - [https://javascript.info/](https://javascript.info/)  &nbsp; [Read] [Free]
 
 **************************
-<br/>
-<br/>
-<br/>
-<br/>
+
+
+
+
 
 
 # Topics related Resources

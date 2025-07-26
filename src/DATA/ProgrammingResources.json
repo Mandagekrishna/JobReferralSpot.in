@@ -18,6 +18,26 @@
             "intermediate":["Arrow Functions", "Destructuring","Spread and Rest Operators","callback Functions","Closures", "Scopes","Hoisting", "Array Methods","Object Methods"],
             "advance":["Promises","Asynchronous Javascript","Currying","Immediately Invoked Function Expression(IIFE)","call, apply, bind", "this operator"]
         }
+    },
+    {
+        "id":"3",
+        "Name":"HTML",
+        "fileName":"",
+        "syllabus":{
+            "basics":[],
+            "intermediate":[],
+            "advance":[]
+        }
+    },
+    {
+        "id":"4",
+        "Name":"CSS",
+        "fileName":"",
+        "syllabus":{
+            "basics":[],
+            "intermediate":[],
+            "advance":[]
+        }
     }
     
     

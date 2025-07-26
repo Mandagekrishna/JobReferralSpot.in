@@ -34,7 +34,7 @@ export default function ResourcesHomePage(){
     {ResourceDetails.map(element=>{
         
         return(        
-            <Grid size={{xs:3,md:2}}   marginBottom='60px' justifyContent="space-between">         
+            <Grid size={{xs:3,md:2.1}}   marginBottom='60px' justifyContent="space-between">         
               <NavLink to={`/ResourceDetails/${element.id}`}  style={{underline:'none',textDecoration:'none', color:'inherit'}}>
                 <Card sx={{justifyContent:'center'}}>
                   <CardActionArea  sx={{              

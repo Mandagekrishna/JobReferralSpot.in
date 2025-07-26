@@ -56,10 +56,10 @@ useEffect(()=>{
   
 
     return(<>
+<h1 style={{marginLeft:'20px'}}>{currentDetails[0].Name}</h1>
 
 <Grid container columns={8} marginLeft={10}>
     
-
     <Grid container direction='row' size={5.5} marginRight={6} sx={{justifyContent: "space-evenly",height:'1000px'}}>
     
         <Grid size={2}>
@@ -75,7 +75,7 @@ useEffect(()=>{
             <Stack>{syllabus.advance.map(topics => {return(<><p>{topics}</p></>)})}</Stack>
         </Grid>
         <Grid className = 'details' size={8}>
-        {fileName==''?<h1 style={{ color: 'red' }}>Details don't exist</h1>:<ReactMarkdown  remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeSlug]}>{DisplaymdFile}</ReactMarkdown>}    
+        {fileName==''?<h1 style={{ color: 'red' }}>Details are in Process</h1>:<ReactMarkdown  remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeSlug]}>{DisplaymdFile}</ReactMarkdown>}    
         {/* {fileName==''?<h1 style={{ color: 'red' }}>Details don't exist</h1>:<MDXProvider>{DisplaymdFile?<DisplaymdFile/>:<p>loading...</p>}</MDXProvider>} */}
         </Grid>
 
