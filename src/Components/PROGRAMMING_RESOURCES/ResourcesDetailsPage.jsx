@@ -14,20 +14,37 @@ import CardActionArea from '@mui/material/CardActionArea';
 import { Card, Paper } from '@mui/material';
 // import remarkGfm from 'remark-gfm';
 // import rehypeSlug from 'rehype-slug';
-import Data from '../../DATA/ReactResources.mdx'
-import {MDXProvider} from '@mdx-js/react'
+import {MDXProvider} from '@mdx-js/react';
 
 
 export default function ReactResources(){
 
     let {id} = useParams();
-    let [displaymdFile, updatemdFile ] = useState();
+    let [DisplaymdFile, updatemdFile ] = useState();
     let [adProducts, updateProducts] = useState(adProduct);
 
     let currentDetails = ResourcesList.filter(element => element.id === id);
     let fileName = currentDetails[0].fileName
 
-    // useEffect(()=>  {import (`../../DATA/${fileName}.md?raw`).then(result=>updatemdFile(result.default))},[]);   //from chatgpt
+useEffect(()=>{
+    
+    const loadMdx = async function()
+    {
+    try{    
+    {
+        const mdxContent = await import (`../../DATA/${fileName}.mdx`)  //from chatgpt
+        // updatemdFile(mdxContent.default); // this will not work because state will use the stale state. If there are multiple state updates in sequence, React may use stale data or incorrectly batch the updates, resulting in issues with component rendering.(chatgpt)
+        updatemdFile(()=>mdxContent.default);
+        console.log(mdxContent)
+        
+    }
+ }
+    catch(error){
+        console.log(error)
+    }
+}
+
+   loadMdx()},[]);
   
 
     return(<>
@@ -35,7 +52,9 @@ export default function ReactResources(){
 <Grid container columns={8} marginLeft={10}>
     <Grid size={5.5} marginRight={6}>
         {/* <ReactMarkdown  remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeSlug]}>{displaymdFile}</ReactMarkdown>        */}
-        <MDXProvider><Data></Data></MDXProvider>
+        <MDXProvider>{DisplaymdFile?<DisplaymdFile/>:<p>loading...</p>}</MDXProvider>
+       
+
     </Grid>
 
      <Grid container size={{xs:2,md:2}} sx={{backgroundColor:'lightblue'}}> 
