@@ -22,11 +22,11 @@
     {
         "id":"3",
         "Name":"HTML",
-        "fileName":"",
+        "fileName":"HtmlResources",
         "syllabus":{
-            "basics":[],
-            "intermediate":[],
-            "advance":[]
+            "basics":["Page Structure","Comment","Seperators","Attributes","Containers","Text Tags"],
+            "intermediate":["Links","Tables","Lists","Form Tags","SEO","Block Level Elements","Inline Elements","Span"],
+            "advance":["Media Tags","Styling Tags","CSS in HTML","Javascript in HTML","Self Closing Tags","HTML5 Tags"]
         }
     },
     {
