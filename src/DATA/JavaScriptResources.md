@@ -77,6 +77,7 @@
 - [Objects : the basics](https://javascript.info/object-basics) &nbsp; [Read] [Free]
 ***
 ## Comments
+- [Comments - Javascript.info](https://javascript.info/comments) &nbsp; [Read] [Free]
 
 ***
 
@@ -127,6 +128,13 @@
 - [Using promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises) &nbsp; [Read] [Free]
 - [Promise Concepts - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) &nbsp; [Read] [Free]
 - [How to use Promises - MDN Docs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Async_JS/Promises) &nbsp; [Read] [Free]
+- [Promises - by Namaste Javascript](https://www.youtube.com/watch?v=ap-6PPAuK1Y&list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX&index=3&ab_channel=AkshaySaini) &nbsp; [Watch] [Free]
+
+***
+## Async & Await
+- [Async/await - Javascript.info](https://javascript.info/async-await)  &nbsp; [Read] [Free]
+- [async and await - MDN Docs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Async_JS/Promises) &nbsp; [Read]  [Free]
+- [async await | Namaste JavaScript](https://www.youtube.com/watch?v=6nv3qy3oNkc&list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX&index=6&ab_channel=AkshaySaini) &nbsp; [Watch] [Free]
 
 ***
 ## Asynchronous Javascript

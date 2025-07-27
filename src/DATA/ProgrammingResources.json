@@ -16,7 +16,7 @@
         "syllabus":{
             "basics":["Introduction","Data Types","let vs const vs var","Operators","Conditionals","Loops","Functions","String and String Methods","Array and Methods","Objects","Comments"],
             "intermediate":["Arrow Functions", "Destructuring","Spread and Rest Operators","callback Functions","Closures", "Scopes","Hoisting", "Array Methods","Object Methods","String Methods"],
-            "advance":["Promises","Asynchronous Javascript","Currying","Immediately Invoked Function Expression(IIFE)","call, apply, bind", "this operator"]
+            "advance":["Promises","Async & Await","Asynchronous Javascript","Currying","Immediately Invoked Function Expression(IIFE)","call, apply, bind", "this operator"]
         }
     },
     {
