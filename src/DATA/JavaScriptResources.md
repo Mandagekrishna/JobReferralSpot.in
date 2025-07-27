@@ -111,3 +111,29 @@
 ***
 ### String Methods
 - [String - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) &nbsp; [Read] [Free]
+
+
+
+## Promises
+- [Promise](https://javascript.info/promise-basics) &nbsp; [Read] [Free]
+- [Using promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises) &nbsp; [Read] [Free]
+- [Promise Concepts - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) &nbsp; [Read] [Free]
+- [How to use Promises - MDN Docs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Async_JS/Promises) &nbsp; [Read] [Free]
+
+## Asynchronous Javascript
+- [Asynchronous Javascript Introduction](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Async_JS/Introducing)  &nbsp; [Read]  [Free]
+## Currying
+- [What is currying and how does it work?](https://www.greatfrontend.com/questions/quiz/what-is-currying-and-how-does-it-work) &nbsp; [Read] [Free] 
+- [A Beginner’s Guide to Currying in Functional JavaScript](https://www.sitepoint.com/currying-in-functional-javascript/) &nbsp; [Read] [Free]
+
+## Immediately Invoked Function Expression(IIFE)
+- [Javascript.info](https://javascript.info/var) &nbsp; [Read] [Free]
+- [IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE) &nbsp; [Read] [Free]
+
+
+## call, apply, bind
+- [www.W3Schools.com](https://www.w3schools.com/js/js_function_call.asp) &nbsp; [Read] [Free]
+- [Stackoverflow](https://stackoverflow.com/questions/15455009/javascript-call-apply-vs-bind) &nbsp; [Read] [Free]
+
+## this operator
+- [THIS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this) &nbsp; [Read] [Free]
