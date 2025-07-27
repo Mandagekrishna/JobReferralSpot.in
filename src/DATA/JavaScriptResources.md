@@ -75,4 +75,39 @@
 ***
 ## Comments
 
+***
 
+## Arrow Functions
+- [https://javascript.info/](https://javascript.info/)  &nbsp; [Read] [Free]
+***
+## Destructuring
+- [https://developer.mozilla.org/en](https://developer.mozilla.org/en) &nbsp; [Read] [Free]
+- [ES6 In Depth: Destructuring - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/) &nbsp; [Read] [Free]
+
+***
+## Spread and Rest Operators
+- [Rest parameters and spread syntax - Javascript.info](https://javascript.info/rest-parameters-spread) &nbsp; [Read] [Free]
+***
+## callback Functions
+***
+## Closures
+- [https://javascript.info/closure](https://javascript.info/closure) &nbsp; [Read] [Free]
+-[Closures - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Closures) &nbsp; [Read] [Free]
+***
+## Scopes
+- [Scope- MDN Docs](https://developer.mozilla.org/en-US/docs/Glossary/Scope) &nbsp; [Read] [Free]
+- [All 4 JavaScript Scopes Explained](https://blog.webdevsimplified.com/2022-10/js-scoping/) &nbsp; [Read] [Free]
+***
+## Hoisting
+- [Hoisting - MDN Docs](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting) &nbsp; [Read] [Free]
+***
+## Array Methods
+- [Array and its Methods MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) &nbsp; [Read] [Free]
+
+***
+## Object Methods
+- [Objects - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object) &nbsp; [Read] [Free]
+
+***
+### String Methods
+- [String - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) &nbsp; [Read] [Free]

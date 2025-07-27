@@ -150,7 +150,7 @@ export default function MiniDrawer({updateDrawer}) {
           <Typography variant="h6" component="div" sx={{ flexGrow: 1, fontFamily:'monospace', fontWeight:'bold' }}>
             JobReferralSpot.in
           </Typography>
-          <Button color="inherit"><NavLink style={{textDecoration:'none', color:'inherit'}} to='/Home'>Home</NavLink></Button>
+          <Button color="inherit"><NavLink style={{textDecoration:'none', color:'inherit'}} to='/ResourcesHomePage'>Home</NavLink></Button>
           <Button color='inherit' onClick={goBack}>Back</Button>
         </Toolbar>
       </AppBar>
