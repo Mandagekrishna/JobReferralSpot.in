@@ -61,7 +61,7 @@
 
 ***
 ## Hooks
-[Learn React JS - Full Beginner’s Tutorial & Practice Projects](https://www.youtube.com/watch?v=x4rFhThSX04&ab_channel=freeCodeCamp.org) &nbsp; [watch] [Free]
+- [Learn React JS - Full Beginner’s Tutorial & Practice Projects](https://www.youtube.com/watch?v=x4rFhThSX04&ab_channel=freeCodeCamp.org) &nbsp; [watch] [Free]
   
 
 
@@ -80,26 +80,26 @@
 
 ***
 ## Form Handling
-[Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=4UZrsTqkcW4&t=23733s)  [youTube][Watch]
+- [Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=4UZrsTqkcW4&t=23733s)  [youTube][Watch]
 
 
 
 
 ***
 ## Fetching Data
-
+- [Using the Fetch API  - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
 
 
 
 ***
 ## Virtual Dom
-
-
+- [ReactJS Virtual DOM](https://www.geeksforgeeks.org/reactjs/reactjs-virtual-dom/) &nbsp; [read] [Free]
+- [Reconciliation Process](https://react.ntxm.org/docs/introduction-to-reactjs/reconciliation-process/) &nbsp; [read] [Free]
 
 ***
 ## Lazy Loading
-[Implementing React Lazy Loading](https://www.dhiwise.com/post/implementing-react-lazy-loading-for-better-app-performance)  &nbsp; [read] [Free]
+- [Implementing React Lazy Loading](https://www.dhiwise.com/post/implementing-react-lazy-loading-for-better-app-performance)  &nbsp; [read] [Free]
 
 
 
@@ -111,7 +111,7 @@
 
 ***
 ## Higher Order Components
-[Higher Order Components by Net Ninja](https://www.youtube.com/watch?v=hKvV0euP3mY&ab_channel=NetNinja)  &nbsp;  [watch] [Free]
+- [Higher Order Components by Net Ninja](https://www.youtube.com/watch?v=hKvV0euP3mY&ab_channel=NetNinja)  &nbsp;  [watch] [Free]
 
 
 

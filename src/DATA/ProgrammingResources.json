@@ -38,6 +38,16 @@
             "intermediate":["Gradients","Box Model","Border","OUtline","Margin and Padding","Positioning"],
             "advance":["Classification(display, visibility,Opacity", "List","Table","Media Queries","Layout(Flexbox,Gridbox)"]
         }
+    },
+    {
+        "id":"5",
+        "Name":"Sql",
+        "fileName":"SqlResources",
+        "syllabus":{
+            "basics":[],
+            "intermediate":[],
+            "advance":[]
+        }
     }
     
     
