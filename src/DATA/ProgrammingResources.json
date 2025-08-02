@@ -42,11 +42,11 @@
     {
         "id":"5",
         "Name":"Sql",
-        "fileName":"SqlResources",
+        "fileName":"MySqlResources",
         "syllabus":{
-            "basics":[],
-            "intermediate":[],
-            "advance":[]
+            "basics":["Basic Commands","Basic Clauses & Operators","Basic Functions","Joins"],
+            "intermediate":["Advanced Joins", "Grouping & Aggregation","Subqueries","Indexing & Performance","Data Integrity","Views","Transactions","Stored Data Management"],
+            "advance":["Stored Procedures & Functions","Triggers & Events","Performance Tuning","Security","Replication & High Availability","Partitioning","Advanced SQL Techniques"]
         }
     }
     
