@@ -70,11 +70,11 @@
 ***
 ## Life Cycle Methods
 
-
+- [React Component Lifecycle Methods](https://www.freecodecamp.org/news/react-component-lifecycle-methods/)  &nbsp; [Read] [Free]
 
 ***
 ## Styling in React
-
+- [Different way to Style in React](https://www.freecodecamp.org/news/how-to-style-a-react-app/) &nbsp; [Read] [Free]
 
 
 
@@ -106,7 +106,7 @@
 
 ***
 ## Routing
-
+- [React Router- official docs](https://reactrouter.com/start/declarative/installation) &nbsp; [read] [Free]
 
 
 ***
@@ -118,18 +118,21 @@
 
 ***
 ## State Management Libraries
-
-
+- [Introduction to REDUX](https://youtu.be/HKU24nY8Hsc?si=AKHbKc5e51QYsxar) &nbsp;  [watch] [Free]
+- [Deep Dive into REDUX - Official Docs](https://redux.js.org/tutorials/essentials/part-1-overview-concepts) &nbsp;  [Read] [Free]
+- [Redux Essentials, Part 2: Redux Toolkit App Structur](https://redux.js.org/tutorials/essentials/part-2-app-structure) &nbsp;  [Read] [Free]
 
 ***
 ## Custom Hooks
+- [Reusing Logic with Custom Hooks](https://react.dev/learn/reusing-logic-with-custom-hooks) &nbsp;  [Read] [Free]
 
 
 
 
 ***
 ## Performance Improvement
-
+- [Optimizing Performance](https://legacy.reactjs.org/docs/optimizing-performance.html) &nbsp;  [Read] [Free]
+- [React Optimization Techniques to Help You Write More Performant Code - Freecodecamp](https://www.freecodecamp.org/news/react-performance-optimization-techniques/) &nbsp;  [Read] [Free]
 
 ***
 
